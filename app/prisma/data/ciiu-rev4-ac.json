@@ -1,0 +1,4018 @@
+[
+ {
+  "code": "0111",
+  "description": "Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas",
+  "groupCode": "011",
+  "groupName": "Cultivos agrícolas transitorios",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0112",
+  "description": "Cultivo de arroz",
+  "groupCode": "011",
+  "groupName": "Cultivos agrícolas transitorios",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0113",
+  "description": "Cultivo de hortalizas, raíces y tubérculos",
+  "groupCode": "011",
+  "groupName": "Cultivos agrícolas transitorios",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0114",
+  "description": "Cultivo de tabaco",
+  "groupCode": "011",
+  "groupName": "Cultivos agrícolas transitorios",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0115",
+  "description": "Cultivo de plantas textiles",
+  "groupCode": "011",
+  "groupName": "Cultivos agrícolas transitorios",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0119",
+  "description": "Otros cultivos transitorios n.c.p.",
+  "groupCode": "011",
+  "groupName": "Cultivos agrícolas transitorios",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0121",
+  "description": "Cultivo de frutas tropicales y subtropicales",
+  "groupCode": "012",
+  "groupName": "Cultivos agrícolas permanentes",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0122",
+  "description": "Cultivo de plátano y banano",
+  "groupCode": "012",
+  "groupName": "Cultivos agrícolas permanentes",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0123",
+  "description": "Cultivo de café",
+  "groupCode": "012",
+  "groupName": "Cultivos agrícolas permanentes",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0124",
+  "description": "Cultivo de caña de azúcar",
+  "groupCode": "012",
+  "groupName": "Cultivos agrícolas permanentes",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0125",
+  "description": "Cultivo de flor de corte",
+  "groupCode": "012",
+  "groupName": "Cultivos agrícolas permanentes",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0126",
+  "description": "Cultivo de palma para aceite (palma africana) y otros frutos oleaginosos",
+  "groupCode": "012",
+  "groupName": "Cultivos agrícolas permanentes",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0127",
+  "description": "Cultivo de plantas con las que se preparan bebidas",
+  "groupCode": "012",
+  "groupName": "Cultivos agrícolas permanentes",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0128",
+  "description": "Cultivo de especias y de plantas aromáticas y medicinales",
+  "groupCode": "012",
+  "groupName": "Cultivos agrícolas permanentes",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0129",
+  "description": "Otros cultivos permanentes n.c.p.",
+  "groupCode": "012",
+  "groupName": "Cultivos agrícolas permanentes",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0130",
+  "description": "Propagación de plantas (actividades de los viveros, excepto viveros forestales)",
+  "groupCode": "013",
+  "groupName": "Propagación de plantas (actividades de los viveros, excepto viveros forestales)",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0141",
+  "description": "Cría de ganado bovino y bufalino",
+  "groupCode": "014",
+  "groupName": "Ganadería",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0142",
+  "description": "Cría de caballos y otros equinos",
+  "groupCode": "014",
+  "groupName": "Ganadería",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0143",
+  "description": "Cría de ovejas y cabras",
+  "groupCode": "014",
+  "groupName": "Ganadería",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0144",
+  "description": "Cría de ganado porcino",
+  "groupCode": "014",
+  "groupName": "Ganadería",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0145",
+  "description": "Cría de aves de corral",
+  "groupCode": "014",
+  "groupName": "Ganadería",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0149",
+  "description": "Cría de otros animales n.c.p.",
+  "groupCode": "014",
+  "groupName": "Ganadería",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0150",
+  "description": "Explotación mixta (agrícola y pecuaria)",
+  "groupCode": "015",
+  "groupName": "Explotación mixta (agrícola y pecuaria)",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0161",
+  "description": "Actividades de apoyo a la agricultura",
+  "groupCode": "016",
+  "groupName": "Actividades de apoyo a la agricultura y la ganadería, y actividades posteriores a la cosecha",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0162",
+  "description": "Actividades de apoyo a la ganadería",
+  "groupCode": "016",
+  "groupName": "Actividades de apoyo a la agricultura y la ganadería, y actividades posteriores a la cosecha",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0163",
+  "description": "Actividades posteriores a la cosecha",
+  "groupCode": "016",
+  "groupName": "Actividades de apoyo a la agricultura y la ganadería, y actividades posteriores a la cosecha",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0164",
+  "description": "Tratamiento de semillas para propagación",
+  "groupCode": "016",
+  "groupName": "Actividades de apoyo a la agricultura y la ganadería, y actividades posteriores a la cosecha",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0170",
+  "description": "Caza ordinaria y mediante trampas y actividades de servicios conexas",
+  "groupCode": "017",
+  "groupName": "Caza ordinaria y mediante trampas y actividades de servicios conexas",
+  "divisionCode": "01",
+  "divisionName": "Agricultura, ganadería, caza y actividades de servicios conexas"
+ },
+ {
+  "code": "0210",
+  "description": "Silvicultura y otras actividades forestales",
+  "groupCode": "021",
+  "groupName": "Silvicultura y otras actividades forestales",
+  "divisionCode": "02",
+  "divisionName": "Silvicultura y extracción de madera"
+ },
+ {
+  "code": "0220",
+  "description": "Extracción de madera",
+  "groupCode": "022",
+  "groupName": "Extracción de madera",
+  "divisionCode": "02",
+  "divisionName": "Silvicultura y extracción de madera"
+ },
+ {
+  "code": "0230",
+  "description": "Recolección de productos forestales diferentes a la madera",
+  "groupCode": "023",
+  "groupName": "Recolección de productos forestales diferentes a la madera",
+  "divisionCode": "02",
+  "divisionName": "Silvicultura y extracción de madera"
+ },
+ {
+  "code": "0240",
+  "description": "Servicios de apoyo a la silvicultura",
+  "groupCode": "024",
+  "groupName": "Servicios de apoyo a la silvicultura",
+  "divisionCode": "02",
+  "divisionName": "Silvicultura y extracción de madera"
+ },
+ {
+  "code": "0311",
+  "description": "Pesca marítima",
+  "groupCode": "031",
+  "groupName": "Pesca",
+  "divisionCode": "03",
+  "divisionName": "Pesca y acuicultura"
+ },
+ {
+  "code": "0312",
+  "description": "Pesca de agua dulce",
+  "groupCode": "031",
+  "groupName": "Pesca",
+  "divisionCode": "03",
+  "divisionName": "Pesca y acuicultura"
+ },
+ {
+  "code": "0321",
+  "description": "Acuicultura marítima",
+  "groupCode": "032",
+  "groupName": "Acuicultura",
+  "divisionCode": "03",
+  "divisionName": "Pesca y acuicultura"
+ },
+ {
+  "code": "0322",
+  "description": "Acuicultura de agua dulce",
+  "groupCode": "032",
+  "groupName": "Acuicultura",
+  "divisionCode": "03",
+  "divisionName": "Pesca y acuicultura"
+ },
+ {
+  "code": "0510",
+  "description": "Extracción de hulla (carbón de piedra)",
+  "groupCode": "051",
+  "groupName": "Extracción de hulla (carbón de piedra)",
+  "divisionCode": "05",
+  "divisionName": "Extracción de carbón de piedra y lignito"
+ },
+ {
+  "code": "0520",
+  "description": "Extracción de carbón lignito",
+  "groupCode": "052",
+  "groupName": "Extracción de carbón lignito",
+  "divisionCode": "05",
+  "divisionName": "Extracción de carbón de piedra y lignito"
+ },
+ {
+  "code": "0610",
+  "description": "Extracción de petróleo crudo",
+  "groupCode": "061",
+  "groupName": "Extracción de petróleo crudo",
+  "divisionCode": "06",
+  "divisionName": "Extracción de petróleo crudo y gas natural"
+ },
+ {
+  "code": "0620",
+  "description": "Extracción de gas natural",
+  "groupCode": "062",
+  "groupName": "Extracción de gas natural",
+  "divisionCode": "06",
+  "divisionName": "Extracción de petróleo crudo y gas natural"
+ },
+ {
+  "code": "0710",
+  "description": "Extracción de minerales de hierro",
+  "groupCode": "071",
+  "groupName": "Extracción de minerales de hierro",
+  "divisionCode": "07",
+  "divisionName": "Extracción de minerales metalíferos"
+ },
+ {
+  "code": "0721",
+  "description": "Extracción de minerales de uranio y de torio",
+  "groupCode": "072",
+  "groupName": "Extracción de minerales metalíferos no ferrosos",
+  "divisionCode": "07",
+  "divisionName": "Extracción de minerales metalíferos"
+ },
+ {
+  "code": "0722",
+  "description": "Extracción de oro y otros metales preciosos",
+  "groupCode": "072",
+  "groupName": "Extracción de minerales metalíferos no ferrosos",
+  "divisionCode": "07",
+  "divisionName": "Extracción de minerales metalíferos"
+ },
+ {
+  "code": "0723",
+  "description": "Extracción de minerales de níquel",
+  "groupCode": "072",
+  "groupName": "Extracción de minerales metalíferos no ferrosos",
+  "divisionCode": "07",
+  "divisionName": "Extracción de minerales metalíferos"
+ },
+ {
+  "code": "0729",
+  "description": "Extracción de otros minerales metalíferos no ferrosos n.c.p.",
+  "groupCode": "072",
+  "groupName": "Extracción de minerales metalíferos no ferrosos",
+  "divisionCode": "07",
+  "divisionName": "Extracción de minerales metalíferos"
+ },
+ {
+  "code": "0811",
+  "description": "Extracción de piedra, arena, arcillas comunes, yeso y anhidrita",
+  "groupCode": "081",
+  "groupName": "Extracción de piedra, arena, arcillas, cal, yeso, caolín, bentonitas y similares",
+  "divisionCode": "08",
+  "divisionName": "Extracción de otras minas y canteras"
+ },
+ {
+  "code": "0812",
+  "description": "Extracción de arcillas de uso industrial, caliza, caolín y bentonitas",
+  "groupCode": "081",
+  "groupName": "Extracción de piedra, arena, arcillas, cal, yeso, caolín, bentonitas y similares",
+  "divisionCode": "08",
+  "divisionName": "Extracción de otras minas y canteras"
+ },
+ {
+  "code": "0820",
+  "description": "Extracción de esmeraldas, piedras preciosas y semipreciosas",
+  "groupCode": "082",
+  "groupName": "Extracción de esmeraldas, piedras preciosas y semipreciosas",
+  "divisionCode": "08",
+  "divisionName": "Extracción de otras minas y canteras"
+ },
+ {
+  "code": "0891",
+  "description": "Extracción de minerales para la fabricación de abonos y productos químicos",
+  "groupCode": "089",
+  "groupName": "Extracción de otros minerales no metálicos n.c.p.",
+  "divisionCode": "08",
+  "divisionName": "Extracción de otras minas y canteras"
+ },
+ {
+  "code": "0892",
+  "description": "Extracción de halita (sal)",
+  "groupCode": "089",
+  "groupName": "Extracción de otros minerales no metálicos n.c.p.",
+  "divisionCode": "08",
+  "divisionName": "Extracción de otras minas y canteras"
+ },
+ {
+  "code": "0899",
+  "description": "Extracción de otros minerales no metálicos n.c.p.",
+  "groupCode": "089",
+  "groupName": "Extracción de otros minerales no metálicos n.c.p.",
+  "divisionCode": "08",
+  "divisionName": "Extracción de otras minas y canteras"
+ },
+ {
+  "code": "0910",
+  "description": "Actividades de apoyo para la extracción de petróleo y de gas natural",
+  "groupCode": "091",
+  "groupName": "Actividades de apoyo para la extracción de petróleo y de gas natural",
+  "divisionCode": "09",
+  "divisionName": "Actividades de servicios de apoyo para la explotación de minas y canteras"
+ },
+ {
+  "code": "0990",
+  "description": "Actividades de apoyo para otras actividades de explotación de minas y canteras",
+  "groupCode": "099",
+  "groupName": "Actividades de apoyo para otras actividades de explotación de minas y canteras",
+  "divisionCode": "09",
+  "divisionName": "Actividades de servicios de apoyo para la explotación de minas y canteras"
+ },
+ {
+  "code": "1011",
+  "description": "Procesamiento y conservación de carne y productos cárnicos",
+  "groupCode": "101",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1012",
+  "description": "Procesamiento y conservación de pescados, crustáceos y moluscos",
+  "groupCode": "101",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1020",
+  "description": "Procesamiento y conservación de frutas, legumbres, hortalizas y tubérculos",
+  "groupCode": "102",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1031",
+  "description": "Extracción de aceites de origen vegetal crudos",
+  "groupCode": "103",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1032",
+  "description": "Elaboración de aceites y grasas de origen vegetal refinados",
+  "groupCode": "103",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1033",
+  "description": "Elaboración de aceites y grasas de origen animal",
+  "groupCode": "103",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1040",
+  "description": "Elaboración de productos lácteos",
+  "groupCode": "104",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1051",
+  "description": "Elaboración de productos de molinería",
+  "groupCode": "105",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1052",
+  "description": "Elaboración de almidones y productos derivados del almidón",
+  "groupCode": "105",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1061",
+  "description": "Trilla de café",
+  "groupCode": "106",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1062",
+  "description": "Descafeinado, tostión y molienda del café",
+  "groupCode": "106",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1063",
+  "description": "Otros derivados del café",
+  "groupCode": "106",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1071",
+  "description": "Elaboración y refinación de azúcar",
+  "groupCode": "107",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1072",
+  "description": "Elaboración de panela",
+  "groupCode": "107",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1081",
+  "description": "Elaboración de productos de panadería",
+  "groupCode": "108",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1082",
+  "description": "Elaboración de cacao, chocolate y productos de confitería",
+  "groupCode": "108",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1083",
+  "description": "Elaboración de macarrones, fideos, alcuzcuz y productos farináceos similares",
+  "groupCode": "108",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1084",
+  "description": "Elaboración de comidas y platos preparados",
+  "groupCode": "108",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1089",
+  "description": "Elaboración de otros productos alimenticios n.c.p.",
+  "groupCode": "108",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1090",
+  "description": "Elaboración de alimentos preparados para animales",
+  "groupCode": "109",
+  "groupName": "",
+  "divisionCode": "10",
+  "divisionName": "Elaboración de productos alimenticios"
+ },
+ {
+  "code": "1101",
+  "description": "Destilación, rectificación y mezcla de bebidas alcohólicas",
+  "groupCode": "110",
+  "groupName": "",
+  "divisionCode": "11",
+  "divisionName": "Elaboración de bebidas"
+ },
+ {
+  "code": "1102",
+  "description": "Elaboración de bebidas fermentadas no destiladas",
+  "groupCode": "110",
+  "groupName": "",
+  "divisionCode": "11",
+  "divisionName": "Elaboración de bebidas"
+ },
+ {
+  "code": "1103",
+  "description": "Producción de malta, elaboración de cervezas y otras bebidas malteadas",
+  "groupCode": "110",
+  "groupName": "",
+  "divisionCode": "11",
+  "divisionName": "Elaboración de bebidas"
+ },
+ {
+  "code": "1104",
+  "description": "Elaboración de bebidas no alcohólicas, producción de aguas minerales y otras aguas embotelladas",
+  "groupCode": "110",
+  "groupName": "",
+  "divisionCode": "11",
+  "divisionName": "Elaboración de bebidas"
+ },
+ {
+  "code": "1200",
+  "description": "Elaboración de productos de tabaco",
+  "groupCode": "120",
+  "groupName": "",
+  "divisionCode": "12",
+  "divisionName": "Elaboración de productos de tabaco"
+ },
+ {
+  "code": "1311",
+  "description": "Preparación e hilatura de fibras textiles",
+  "groupCode": "131",
+  "groupName": "",
+  "divisionCode": "13",
+  "divisionName": "Fabricación de productos textiles"
+ },
+ {
+  "code": "1312",
+  "description": "Tejeduría de productos textiles",
+  "groupCode": "131",
+  "groupName": "",
+  "divisionCode": "13",
+  "divisionName": "Fabricación de productos textiles"
+ },
+ {
+  "code": "1313",
+  "description": "Acabado de productos textiles",
+  "groupCode": "131",
+  "groupName": "",
+  "divisionCode": "13",
+  "divisionName": "Fabricación de productos textiles"
+ },
+ {
+  "code": "1391",
+  "description": "Fabricación de tejidos de punto y ganchillo",
+  "groupCode": "139",
+  "groupName": "Fabricación de otros productos textiles",
+  "divisionCode": "13",
+  "divisionName": "Fabricación de productos textiles"
+ },
+ {
+  "code": "1392",
+  "description": "Confección de artículos con materiales textiles, excepto prendas de vestir",
+  "groupCode": "139",
+  "groupName": "Fabricación de otros productos textiles",
+  "divisionCode": "13",
+  "divisionName": "Fabricación de productos textiles"
+ },
+ {
+  "code": "1393",
+  "description": "Fabricación de tapetes y alfombras para pisos",
+  "groupCode": "139",
+  "groupName": "Fabricación de otros productos textiles",
+  "divisionCode": "13",
+  "divisionName": "Fabricación de productos textiles"
+ },
+ {
+  "code": "1394",
+  "description": "Fabricación de cuerdas, cordeles, cables, bramantes y redes",
+  "groupCode": "139",
+  "groupName": "Fabricación de otros productos textiles",
+  "divisionCode": "13",
+  "divisionName": "Fabricación de productos textiles"
+ },
+ {
+  "code": "1399",
+  "description": "Fabricación de otros artículos textiles n.c.p.",
+  "groupCode": "139",
+  "groupName": "Fabricación de otros productos textiles",
+  "divisionCode": "13",
+  "divisionName": "Fabricación de productos textiles"
+ },
+ {
+  "code": "1410",
+  "description": "Confección de prendas de vestir, excepto prendas de piel",
+  "groupCode": "141",
+  "groupName": "Confección de prendas de vestir, excepto prendas de piel",
+  "divisionCode": "14",
+  "divisionName": "Confección de prendas de vestir"
+ },
+ {
+  "code": "1420",
+  "description": "Fabricación de artículos de piel",
+  "groupCode": "142",
+  "groupName": "Fabricación de artículos de piel",
+  "divisionCode": "14",
+  "divisionName": "Confección de prendas de vestir"
+ },
+ {
+  "code": "1430",
+  "description": "Fabricación de artículos de punto y ganchillo",
+  "groupCode": "143",
+  "groupName": "Fabricación de artículos de punto y ganchillo",
+  "divisionCode": "14",
+  "divisionName": "Confección de prendas de vestir"
+ },
+ {
+  "code": "1511",
+  "description": "Curtido y recurtido de cueros; recurtido y teñido de pieles.",
+  "groupCode": "151",
+  "groupName": "Curtido y recurtido de cueros; fabricación de artículos de viaje, bolsos de mano y artículos similares y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles",
+  "divisionCode": "15",
+  "divisionName": "Curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles"
+ },
+ {
+  "code": "1512",
+  "description": "Fabricación de artículos de viaje, bolsos de mano y artículos similares elaborados en cuero, y fabricación de artículos de talabartería y guarnicionería.",
+  "groupCode": "151",
+  "groupName": "Curtido y recurtido de cueros; fabricación de artículos de viaje, bolsos de mano y artículos similares y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles",
+  "divisionCode": "15",
+  "divisionName": "Curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles"
+ },
+ {
+  "code": "1513",
+  "description": "Fabricación de artículos de viaje, bolsos de mano y artículos similares; artículos de talabartería y guarnicionería elaborados en otros materiales",
+  "groupCode": "151",
+  "groupName": "Curtido y recurtido de cueros; fabricación de artículos de viaje, bolsos de mano y artículos similares y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles",
+  "divisionCode": "15",
+  "divisionName": "Curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles"
+ },
+ {
+  "code": "1521",
+  "description": "Fabricación de calzado de cuero y piel, con cualquier tipo de suela",
+  "groupCode": "152",
+  "groupName": "Fabricación de calzado",
+  "divisionCode": "15",
+  "divisionName": "Curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles"
+ },
+ {
+  "code": "1522",
+  "description": "Fabricación de otros tipos de calzado, excepto calzado de cuero y piel",
+  "groupCode": "152",
+  "groupName": "Fabricación de calzado",
+  "divisionCode": "15",
+  "divisionName": "Curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles"
+ },
+ {
+  "code": "1523",
+  "description": "Fabricación de partes del calzado",
+  "groupCode": "152",
+  "groupName": "Fabricación de calzado",
+  "divisionCode": "15",
+  "divisionName": "Curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles"
+ },
+ {
+  "code": "1610",
+  "description": "Aserrado, acepillado e impregnación de la madera",
+  "groupCode": "161",
+  "groupName": "Aserrado, acepillado e impregnación de la madera",
+  "divisionCode": "16",
+  "divisionName": "Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería"
+ },
+ {
+  "code": "1620",
+  "description": "Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles",
+  "groupCode": "162",
+  "groupName": "Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles",
+  "divisionCode": "16",
+  "divisionName": "Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería"
+ },
+ {
+  "code": "1630",
+  "description": "Fabricación de partes y piezas de madera, de carpintería y ebanistería para la construcción",
+  "groupCode": "163",
+  "groupName": "Fabricación de partes y piezas de madera, de carpintería y ebanistería para la construcción",
+  "divisionCode": "16",
+  "divisionName": "Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería"
+ },
+ {
+  "code": "1640",
+  "description": "Fabricación de recipientes de madera",
+  "groupCode": "164",
+  "groupName": "Fabricación de recipientes de madera",
+  "divisionCode": "16",
+  "divisionName": "Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería"
+ },
+ {
+  "code": "1690",
+  "description": "Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería",
+  "groupCode": "169",
+  "groupName": "Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería",
+  "divisionCode": "16",
+  "divisionName": "Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería"
+ },
+ {
+  "code": "1701",
+  "description": "Fabricación de pulpas (pastas) celulósicas; papel y cartón",
+  "groupCode": "170",
+  "groupName": "Fabricación de papel, cartón y productos de papel y cartón",
+  "divisionCode": "17",
+  "divisionName": "Fabricación de papel, cartón y productos de papel y cartón"
+ },
+ {
+  "code": "1702",
+  "description": "Fabricación de papel y cartón ondulado (corrugado); fabricación de envases, empaques y de embalajes de papel y cartón.",
+  "groupCode": "170",
+  "groupName": "Fabricación de papel, cartón y productos de papel y cartón",
+  "divisionCode": "17",
+  "divisionName": "Fabricación de papel, cartón y productos de papel y cartón"
+ },
+ {
+  "code": "1709",
+  "description": "Fabricación de otros artículos de papel y cartón",
+  "groupCode": "170",
+  "groupName": "Fabricación de papel, cartón y productos de papel y cartón",
+  "divisionCode": "17",
+  "divisionName": "Fabricación de papel, cartón y productos de papel y cartón"
+ },
+ {
+  "code": "1811",
+  "description": "Actividades de impresión",
+  "groupCode": "181",
+  "groupName": "Actividades de impresión y actividades de servicios relacionados con la impresión",
+  "divisionCode": "18",
+  "divisionName": "Actividades de impresión y de producción de copias a partir de grabaciones originales"
+ },
+ {
+  "code": "1812",
+  "description": "Actividades de servicios relacionados con la impresión",
+  "groupCode": "181",
+  "groupName": "Actividades de impresión y actividades de servicios relacionados con la impresión",
+  "divisionCode": "18",
+  "divisionName": "Actividades de impresión y de producción de copias a partir de grabaciones originales"
+ },
+ {
+  "code": "1820",
+  "description": "Producción de copias a partir de grabaciones originales",
+  "groupCode": "182",
+  "groupName": "Producción de copias a partir de grabaciones originales",
+  "divisionCode": "18",
+  "divisionName": "Actividades de impresión y de producción de copias a partir de grabaciones originales"
+ },
+ {
+  "code": "1910",
+  "description": "Fabricación de productos de hornos de coque",
+  "groupCode": "191",
+  "groupName": "Fabricación de productos de hornos de coque",
+  "divisionCode": "19",
+  "divisionName": "Coquización, fabricación de productos de la refinación del petróleo y actividad de mezcla de combustibles"
+ },
+ {
+  "code": "1921",
+  "description": "Fabricación de productos de la refinación del petróleo",
+  "groupCode": "192",
+  "groupName": "Fabricación de productos de la refinación del petróleo",
+  "divisionCode": "19",
+  "divisionName": "Coquización, fabricación de productos de la refinación del petróleo y actividad de mezcla de combustibles"
+ },
+ {
+  "code": "1922",
+  "description": "Actividad de mezcla de combustibles",
+  "groupCode": "192",
+  "groupName": "Fabricación de productos de la refinación del petróleo",
+  "divisionCode": "19",
+  "divisionName": "Coquización, fabricación de productos de la refinación del petróleo y actividad de mezcla de combustibles"
+ },
+ {
+  "code": "2011",
+  "description": "Fabricación de sustancias y productos químicos básicos",
+  "groupCode": "201",
+  "groupName": "Fabricación de sustancias químicas básicas, abonos y compuestos inorgánicos nitrogenados, plásticos y caucho sintético en formas primarias",
+  "divisionCode": "20",
+  "divisionName": "Fabricación de sustancias y productos químicos"
+ },
+ {
+  "code": "2012",
+  "description": "Fabricación de abonos y compuestos inorgánicos nitrogenados",
+  "groupCode": "201",
+  "groupName": "Fabricación de sustancias químicas básicas, abonos y compuestos inorgánicos nitrogenados, plásticos y caucho sintético en formas primarias",
+  "divisionCode": "20",
+  "divisionName": "Fabricación de sustancias y productos químicos"
+ },
+ {
+  "code": "2013",
+  "description": "Fabricación de plásticos en formas primarias",
+  "groupCode": "201",
+  "groupName": "Fabricación de sustancias químicas básicas, abonos y compuestos inorgánicos nitrogenados, plásticos y caucho sintético en formas primarias",
+  "divisionCode": "20",
+  "divisionName": "Fabricación de sustancias y productos químicos"
+ },
+ {
+  "code": "2014",
+  "description": "Fabricación de caucho sintético en formas primarias",
+  "groupCode": "201",
+  "groupName": "Fabricación de sustancias químicas básicas, abonos y compuestos inorgánicos nitrogenados, plásticos y caucho sintético en formas primarias",
+  "divisionCode": "20",
+  "divisionName": "Fabricación de sustancias y productos químicos"
+ },
+ {
+  "code": "2021",
+  "description": "Fabricación de plaguicidas y otros productos químicos de uso agropecuario",
+  "groupCode": "202",
+  "groupName": "Fabricación de otros productos químicos",
+  "divisionCode": "20",
+  "divisionName": "Fabricación de sustancias y productos químicos"
+ },
+ {
+  "code": "2022",
+  "description": "Fabricación de pinturas, barnices y revestimientos similares, tintas para impresión y masillas",
+  "groupCode": "202",
+  "groupName": "Fabricación de otros productos químicos",
+  "divisionCode": "20",
+  "divisionName": "Fabricación de sustancias y productos químicos"
+ },
+ {
+  "code": "2023",
+  "description": "Fabricación de jabones y detergentes, preparados para limpiar y pulir; perfumes y preparados de tocador",
+  "groupCode": "202",
+  "groupName": "Fabricación de otros productos químicos",
+  "divisionCode": "20",
+  "divisionName": "Fabricación de sustancias y productos químicos"
+ },
+ {
+  "code": "2029",
+  "description": "Fabricación de otros productos químicos n.c.p.",
+  "groupCode": "202",
+  "groupName": "Fabricación de otros productos químicos",
+  "divisionCode": "20",
+  "divisionName": "Fabricación de sustancias y productos químicos"
+ },
+ {
+  "code": "2030",
+  "description": "Fabricación de fibras sintéticas y artificiales",
+  "groupCode": "203",
+  "groupName": "Fabricación de fibras sintéticas y artificiales",
+  "divisionCode": "20",
+  "divisionName": "Fabricación de sustancias y productos químicos"
+ },
+ {
+  "code": "2100",
+  "description": "Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",
+  "groupCode": "210",
+  "groupName": "Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",
+  "divisionCode": "21",
+  "divisionName": "Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico"
+ },
+ {
+  "code": "2211",
+  "description": "Fabricación de llantas y neumáticos de caucho",
+  "groupCode": "221",
+  "groupName": "Fabricación de productos de caucho",
+  "divisionCode": "22",
+  "divisionName": "Fabricación de productos de caucho y de plástico"
+ },
+ {
+  "code": "2212",
+  "description": "Reencauche de llantas usadas",
+  "groupCode": "221",
+  "groupName": "Fabricación de productos de caucho",
+  "divisionCode": "22",
+  "divisionName": "Fabricación de productos de caucho y de plástico"
+ },
+ {
+  "code": "2219",
+  "description": "Fabricación de formas básicas de caucho y otros productos de caucho n.c.p.",
+  "groupCode": "221",
+  "groupName": "Fabricación de productos de caucho",
+  "divisionCode": "22",
+  "divisionName": "Fabricación de productos de caucho y de plástico"
+ },
+ {
+  "code": "2221",
+  "description": "Fabricación de formas básicas de plástico",
+  "groupCode": "222",
+  "groupName": "Fabricación de productos de plástico",
+  "divisionCode": "22",
+  "divisionName": "Fabricación de productos de caucho y de plástico"
+ },
+ {
+  "code": "2229",
+  "description": "Fabricación de artículos de plástico n.c.p.",
+  "groupCode": "222",
+  "groupName": "Fabricación de productos de plástico",
+  "divisionCode": "22",
+  "divisionName": "Fabricación de productos de caucho y de plástico"
+ },
+ {
+  "code": "2310",
+  "description": "Fabricación de vidrio y productos de vidrio",
+  "groupCode": "231",
+  "groupName": "Fabricación de vidrio y productos de vidrio",
+  "divisionCode": "23",
+  "divisionName": "Fabricación de otros productos minerales no metálicos"
+ },
+ {
+  "code": "2391",
+  "description": "Fabricación de productos refractarios",
+  "groupCode": "239",
+  "groupName": "Fabricación de productos minerales no metálicos n.c.p.",
+  "divisionCode": "23",
+  "divisionName": "Fabricación de otros productos minerales no metálicos"
+ },
+ {
+  "code": "2392",
+  "description": "Fabricación de materiales de arcilla para la construcción",
+  "groupCode": "239",
+  "groupName": "Fabricación de productos minerales no metálicos n.c.p.",
+  "divisionCode": "23",
+  "divisionName": "Fabricación de otros productos minerales no metálicos"
+ },
+ {
+  "code": "2393",
+  "description": "Fabricación de otros productos de cerámica y porcelana",
+  "groupCode": "239",
+  "groupName": "Fabricación de productos minerales no metálicos n.c.p.",
+  "divisionCode": "23",
+  "divisionName": "Fabricación de otros productos minerales no metálicos"
+ },
+ {
+  "code": "2394",
+  "description": "Fabricación de cemento, cal y yeso",
+  "groupCode": "239",
+  "groupName": "Fabricación de productos minerales no metálicos n.c.p.",
+  "divisionCode": "23",
+  "divisionName": "Fabricación de otros productos minerales no metálicos"
+ },
+ {
+  "code": "2395",
+  "description": "Fabricación de artículos de hormigón, cemento y yeso",
+  "groupCode": "239",
+  "groupName": "Fabricación de productos minerales no metálicos n.c.p.",
+  "divisionCode": "23",
+  "divisionName": "Fabricación de otros productos minerales no metálicos"
+ },
+ {
+  "code": "2396",
+  "description": "Corte, tallado y acabado de la piedra",
+  "groupCode": "239",
+  "groupName": "Fabricación de productos minerales no metálicos n.c.p.",
+  "divisionCode": "23",
+  "divisionName": "Fabricación de otros productos minerales no metálicos"
+ },
+ {
+  "code": "2399",
+  "description": "Fabricación de otros productos minerales no metálicos n.c.p.",
+  "groupCode": "239",
+  "groupName": "Fabricación de productos minerales no metálicos n.c.p.",
+  "divisionCode": "23",
+  "divisionName": "Fabricación de otros productos minerales no metálicos"
+ },
+ {
+  "code": "2410",
+  "description": "Industrias básicas de hierro y de acero",
+  "groupCode": "241",
+  "groupName": "Industrias básicas de hierro y de acero",
+  "divisionCode": "24",
+  "divisionName": "Fabricación de productos metalúrgicos básicos"
+ },
+ {
+  "code": "2421",
+  "description": "Industrias básicas de metales preciosos",
+  "groupCode": "242",
+  "groupName": "Industrias básicas de metales preciosos y de metales no ferrosos",
+  "divisionCode": "24",
+  "divisionName": "Fabricación de productos metalúrgicos básicos"
+ },
+ {
+  "code": "2429",
+  "description": "Industrias básicas de otros metales no ferrosos",
+  "groupCode": "242",
+  "groupName": "Industrias básicas de metales preciosos y de metales no ferrosos",
+  "divisionCode": "24",
+  "divisionName": "Fabricación de productos metalúrgicos básicos"
+ },
+ {
+  "code": "2431",
+  "description": "Fundición de hierro y de acero",
+  "groupCode": "243",
+  "groupName": "Fundición de metales",
+  "divisionCode": "24",
+  "divisionName": "Fabricación de productos metalúrgicos básicos"
+ },
+ {
+  "code": "2432",
+  "description": "Fundición de metales no ferrosos",
+  "groupCode": "243",
+  "groupName": "Fundición de metales",
+  "divisionCode": "24",
+  "divisionName": "Fabricación de productos metalúrgicos básicos"
+ },
+ {
+  "code": "2511",
+  "description": "Fabricación de productos metálicos para uso estructural",
+  "groupCode": "251",
+  "groupName": "Fabricación de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor",
+  "divisionCode": "25",
+  "divisionName": "Fabricación de productos elaborados de metal, excepto maquinaria y equipo"
+ },
+ {
+  "code": "2512",
+  "description": "Fabricación de tanques, depósitos y recipientes de metal, excepto los utilizados para el envase o transporte de mercancías",
+  "groupCode": "251",
+  "groupName": "Fabricación de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor",
+  "divisionCode": "25",
+  "divisionName": "Fabricación de productos elaborados de metal, excepto maquinaria y equipo"
+ },
+ {
+  "code": "2513",
+  "description": "Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central",
+  "groupCode": "251",
+  "groupName": "Fabricación de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor",
+  "divisionCode": "25",
+  "divisionName": "Fabricación de productos elaborados de metal, excepto maquinaria y equipo"
+ },
+ {
+  "code": "2520",
+  "description": "Fabricación de armas y municiones",
+  "groupCode": "252",
+  "groupName": "Fabricación de armas y municiones",
+  "divisionCode": "25",
+  "divisionName": "Fabricación de productos elaborados de metal, excepto maquinaria y equipo"
+ },
+ {
+  "code": "2591",
+  "description": "Forja, prensado, estampado y laminado de metal; pulvimetalurgia",
+  "groupCode": "259",
+  "groupName": "fabricación de otros productos elaborados de metal y actividades de servicios relacionadas con el trabajo de metales",
+  "divisionCode": "25",
+  "divisionName": "Fabricación de productos elaborados de metal, excepto maquinaria y equipo"
+ },
+ {
+  "code": "2592",
+  "description": "Tratamiento y revestimiento de metales; mecanizado",
+  "groupCode": "259",
+  "groupName": "fabricación de otros productos elaborados de metal y actividades de servicios relacionadas con el trabajo de metales",
+  "divisionCode": "25",
+  "divisionName": "Fabricación de productos elaborados de metal, excepto maquinaria y equipo"
+ },
+ {
+  "code": "2593",
+  "description": "Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería",
+  "groupCode": "259",
+  "groupName": "fabricación de otros productos elaborados de metal y actividades de servicios relacionadas con el trabajo de metales",
+  "divisionCode": "25",
+  "divisionName": "Fabricación de productos elaborados de metal, excepto maquinaria y equipo"
+ },
+ {
+  "code": "2599",
+  "description": "Fabricación de otros productos elaborados de metal n.c.p.",
+  "groupCode": "259",
+  "groupName": "fabricación de otros productos elaborados de metal y actividades de servicios relacionadas con el trabajo de metales",
+  "divisionCode": "25",
+  "divisionName": "Fabricación de productos elaborados de metal, excepto maquinaria y equipo"
+ },
+ {
+  "code": "2610",
+  "description": "Fabricación de componentes y tableros electrónicos",
+  "groupCode": "261",
+  "groupName": "Fabricación de componentes y tableros electrónicos",
+  "divisionCode": "26",
+  "divisionName": "Fabricación de productos informáticos, electrónicos y ópticos"
+ },
+ {
+  "code": "2620",
+  "description": "Fabricación de computadoras y de equipo periférico",
+  "groupCode": "262",
+  "groupName": "Fabricación de computadoras y de equipo periférico",
+  "divisionCode": "26",
+  "divisionName": "Fabricación de productos informáticos, electrónicos y ópticos"
+ },
+ {
+  "code": "2630",
+  "description": "Fabricación de equipos de comunicación",
+  "groupCode": "263",
+  "groupName": "Fabricación de equipos de comunicación",
+  "divisionCode": "26",
+  "divisionName": "Fabricación de productos informáticos, electrónicos y ópticos"
+ },
+ {
+  "code": "2640",
+  "description": "Fabricación de aparatos electrónicos de consumo",
+  "groupCode": "264",
+  "groupName": "Fabricación de aparatos electrónicos de consumo",
+  "divisionCode": "26",
+  "divisionName": "Fabricación de productos informáticos, electrónicos y ópticos"
+ },
+ {
+  "code": "2651",
+  "description": "Fabricación de equipo de medición, prueba, navegación y control",
+  "groupCode": "265",
+  "groupName": "Fabricación de equipo de medición, prueba, navegación y control; fabricación de relojes",
+  "divisionCode": "26",
+  "divisionName": "Fabricación de productos informáticos, electrónicos y ópticos"
+ },
+ {
+  "code": "2652",
+  "description": "Fabricación de relojes",
+  "groupCode": "265",
+  "groupName": "Fabricación de equipo de medición, prueba, navegación y control; fabricación de relojes",
+  "divisionCode": "26",
+  "divisionName": "Fabricación de productos informáticos, electrónicos y ópticos"
+ },
+ {
+  "code": "2660",
+  "description": "Fabricación de equipo de irradiación y equipo electrónico de uso médico y terapéutico",
+  "groupCode": "266",
+  "groupName": "Fabricación de equipo de irradiación y equipo electrónico de uso médico y terapéutico",
+  "divisionCode": "26",
+  "divisionName": "Fabricación de productos informáticos, electrónicos y ópticos"
+ },
+ {
+  "code": "2670",
+  "description": "Fabricación de instrumentos ópticos y equipo fotográfico",
+  "groupCode": "267",
+  "groupName": "Fabricación de instrumentos ópticos y equipo fotográfico",
+  "divisionCode": "26",
+  "divisionName": "Fabricación de productos informáticos, electrónicos y ópticos"
+ },
+ {
+  "code": "2680",
+  "description": "Fabricación de medios magnéticos y ópticos para almacenamiento de datos",
+  "groupCode": "268",
+  "groupName": "Fabricación de medios magnéticos y ópticos para almacenamiento de datos",
+  "divisionCode": "26",
+  "divisionName": "Fabricación de productos informáticos, electrónicos y ópticos"
+ },
+ {
+  "code": "2711",
+  "description": "Fabricación de motores, generadores y transformadores eléctricos.",
+  "groupCode": "271",
+  "groupName": "Fabricación de motores, generadores y transformadores eléctricos y de aparatos de distribución y control de la energía eléctrica",
+  "divisionCode": "27",
+  "divisionName": "Fabricación de aparatos y equipo eléctrico"
+ },
+ {
+  "code": "2712",
+  "description": "Fabricación de aparatos de distribución y control de la energía eléctrica",
+  "groupCode": "271",
+  "groupName": "Fabricación de motores, generadores y transformadores eléctricos y de aparatos de distribución y control de la energía eléctrica",
+  "divisionCode": "27",
+  "divisionName": "Fabricación de aparatos y equipo eléctrico"
+ },
+ {
+  "code": "2720",
+  "description": "Fabricación de pilas, baterías y acumuladores eléctricos",
+  "groupCode": "272",
+  "groupName": "Fabricación de pilas, baterías y acumuladores eléctricos",
+  "divisionCode": "27",
+  "divisionName": "Fabricación de aparatos y equipo eléctrico"
+ },
+ {
+  "code": "2731",
+  "description": "Fabricación de hilos y cables eléctricos y de fibra óptica",
+  "groupCode": "273",
+  "groupName": "Fabricación de hilos y cables aislados y sus dispositivos",
+  "divisionCode": "27",
+  "divisionName": "Fabricación de aparatos y equipo eléctrico"
+ },
+ {
+  "code": "2732",
+  "description": "Fabricación de dispositivos de cableado",
+  "groupCode": "273",
+  "groupName": "Fabricación de hilos y cables aislados y sus dispositivos",
+  "divisionCode": "27",
+  "divisionName": "Fabricación de aparatos y equipo eléctrico"
+ },
+ {
+  "code": "2740",
+  "description": "Fabricación de equipos eléctricos de iluminación",
+  "groupCode": "274",
+  "groupName": "Fabricación de equipos eléctricos de iluminación",
+  "divisionCode": "27",
+  "divisionName": "Fabricación de aparatos y equipo eléctrico"
+ },
+ {
+  "code": "2750",
+  "description": "Fabricación de aparatos de uso doméstico",
+  "groupCode": "275",
+  "groupName": "Fabricación de aparatos de uso doméstico",
+  "divisionCode": "27",
+  "divisionName": "Fabricación de aparatos y equipo eléctrico"
+ },
+ {
+  "code": "2790",
+  "description": "Fabricación de otros tipos de equipo eléctrico n.c.p.",
+  "groupCode": "279",
+  "groupName": "Fabricación de otros tipos de equipo eléctrico n.c.p.",
+  "divisionCode": "27",
+  "divisionName": "Fabricación de aparatos y equipo eléctrico"
+ },
+ {
+  "code": "2811",
+  "description": "Fabricación de motores, turbinas, y partes para motores de combustión interna",
+  "groupCode": "281",
+  "groupName": "Fabricación de maquinaria y equipo de uso general",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2812",
+  "description": "Fabricación de equipos de potencia hidráulica y neumática",
+  "groupCode": "281",
+  "groupName": "Fabricación de maquinaria y equipo de uso general",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2813",
+  "description": "Fabricación de otras bombas, compresores, grifos y válvulas",
+  "groupCode": "281",
+  "groupName": "Fabricación de maquinaria y equipo de uso general",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2814",
+  "description": "Fabricación de cojinetes, engranajes, trenes de engranajes y piezas de transmisión",
+  "groupCode": "281",
+  "groupName": "Fabricación de maquinaria y equipo de uso general",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2815",
+  "description": "Fabricación de hornos, hogares y quemadores industriales",
+  "groupCode": "281",
+  "groupName": "Fabricación de maquinaria y equipo de uso general",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2816",
+  "description": "Fabricación de equipo de elevación y manipulación",
+  "groupCode": "281",
+  "groupName": "Fabricación de maquinaria y equipo de uso general",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2817",
+  "description": "Fabricación de maquinaria y equipo de oficina (excepto computadoras y equipo periférico)",
+  "groupCode": "281",
+  "groupName": "Fabricación de maquinaria y equipo de uso general",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2818",
+  "description": "Fabricación de herramientas manuales con motor",
+  "groupCode": "281",
+  "groupName": "Fabricación de maquinaria y equipo de uso general",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2819",
+  "description": "Fabricación de otros tipos de maquinaria y equipo de uso general n.c.p.",
+  "groupCode": "281",
+  "groupName": "Fabricación de maquinaria y equipo de uso general",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2821",
+  "description": "Fabricación de maquinaria agropecuaria y forestal",
+  "groupCode": "282",
+  "groupName": "Fabricación de maquinaria y equipo de uso especial",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2822",
+  "description": "Fabricación de máquinas formadoras de metal y de máquinas herramienta",
+  "groupCode": "282",
+  "groupName": "Fabricación de maquinaria y equipo de uso especial",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2823",
+  "description": "Fabricación de maquinaria para la metalurgia",
+  "groupCode": "282",
+  "groupName": "Fabricación de maquinaria y equipo de uso especial",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2824",
+  "description": "Fabricación de maquinaria para explotación de minas y canteras y para obras de construcción",
+  "groupCode": "282",
+  "groupName": "Fabricación de maquinaria y equipo de uso especial",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2825",
+  "description": "Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco",
+  "groupCode": "282",
+  "groupName": "Fabricación de maquinaria y equipo de uso especial",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2826",
+  "description": "Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros",
+  "groupCode": "282",
+  "groupName": "Fabricación de maquinaria y equipo de uso especial",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2829",
+  "description": "Fabricación de otros tipos de maquinaria y equipo de uso especial n.c.p.",
+  "groupCode": "282",
+  "groupName": "Fabricación de maquinaria y equipo de uso especial",
+  "divisionCode": "28",
+  "divisionName": "Fabricación de maquinaria y equipo n.c.p."
+ },
+ {
+  "code": "2910",
+  "description": "Fabricación de vehículos automotores y sus motores",
+  "groupCode": "291",
+  "groupName": "Fabricación de vehículos automotores y sus motores",
+  "divisionCode": "29",
+  "divisionName": "Fabricación de vehículos automotores, remolques y semirremolques"
+ },
+ {
+  "code": "2920",
+  "description": "Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques",
+  "groupCode": "292",
+  "groupName": "Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques",
+  "divisionCode": "29",
+  "divisionName": "Fabricación de vehículos automotores, remolques y semirremolques"
+ },
+ {
+  "code": "2930",
+  "description": "Fabricación de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",
+  "groupCode": "293",
+  "groupName": "Fabricación de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",
+  "divisionCode": "29",
+  "divisionName": "Fabricación de vehículos automotores, remolques y semirremolques"
+ },
+ {
+  "code": "3011",
+  "description": "Construcción de barcos y de estructuras flotantes",
+  "groupCode": "301",
+  "groupName": "Construcción de barcos y otras embarcaciones",
+  "divisionCode": "30",
+  "divisionName": "Fabricación de otros tipos de equipo de transporte"
+ },
+ {
+  "code": "3012",
+  "description": "Construcción de embarcaciones de recreo y deporte",
+  "groupCode": "301",
+  "groupName": "Construcción de barcos y otras embarcaciones",
+  "divisionCode": "30",
+  "divisionName": "Fabricación de otros tipos de equipo de transporte"
+ },
+ {
+  "code": "3020",
+  "description": "Fabricación de locomotoras y de material rodante para ferrocarriles",
+  "groupCode": "302",
+  "groupName": "Fabricación de locomotoras y de material rodante para ferrocarriles",
+  "divisionCode": "30",
+  "divisionName": "Fabricación de otros tipos de equipo de transporte"
+ },
+ {
+  "code": "3030",
+  "description": "Fabricación de aeronaves, naves espaciales y de maquinaria conexa",
+  "groupCode": "303",
+  "groupName": "Fabricación de aeronaves, naves espaciales y de maquinaria conexa",
+  "divisionCode": "30",
+  "divisionName": "Fabricación de otros tipos de equipo de transporte"
+ },
+ {
+  "code": "3040",
+  "description": "Fabricación de vehículos militares de combate",
+  "groupCode": "304",
+  "groupName": "Fabricación de vehículos militares de combate",
+  "divisionCode": "30",
+  "divisionName": "Fabricación de otros tipos de equipo de transporte"
+ },
+ {
+  "code": "3091",
+  "description": "Fabricación de motocicletas",
+  "groupCode": "309",
+  "groupName": "Fabricación de otros tipos de equipo de transporte n.c.p.",
+  "divisionCode": "30",
+  "divisionName": "Fabricación de otros tipos de equipo de transporte"
+ },
+ {
+  "code": "3092",
+  "description": "Fabricación de bicicletas y de sillas de ruedas para personas con discapacidad",
+  "groupCode": "309",
+  "groupName": "Fabricación de otros tipos de equipo de transporte n.c.p.",
+  "divisionCode": "30",
+  "divisionName": "Fabricación de otros tipos de equipo de transporte"
+ },
+ {
+  "code": "3099",
+  "description": "Fabricación de otros tipos de equipo de transporte n.c.p.",
+  "groupCode": "309",
+  "groupName": "Fabricación de otros tipos de equipo de transporte n.c.p.",
+  "divisionCode": "30",
+  "divisionName": "Fabricación de otros tipos de equipo de transporte"
+ },
+ {
+  "code": "3110",
+  "description": "Fabricación de muebles",
+  "groupCode": "311",
+  "groupName": "Fabricación de muebles",
+  "divisionCode": "31",
+  "divisionName": "Fabricación de muebles, colchones y somieres"
+ },
+ {
+  "code": "3120",
+  "description": "Fabricación de colchones y somieres",
+  "groupCode": "312",
+  "groupName": "Fabricación de colchones y somieres",
+  "divisionCode": "31",
+  "divisionName": "Fabricación de muebles, colchones y somieres"
+ },
+ {
+  "code": "3211",
+  "description": "Fabricación de joyas y artículos conexos",
+  "groupCode": "321",
+  "groupName": "Fabricación de joyas, bisutería y artículos conexos",
+  "divisionCode": "32",
+  "divisionName": "Otras industrias manufactureras"
+ },
+ {
+  "code": "3212",
+  "description": "Fabricación de bisutería y artículos conexos",
+  "groupCode": "321",
+  "groupName": "Fabricación de joyas, bisutería y artículos conexos",
+  "divisionCode": "32",
+  "divisionName": "Otras industrias manufactureras"
+ },
+ {
+  "code": "3220",
+  "description": "Fabricación de instrumentos musicales",
+  "groupCode": "322",
+  "groupName": "Fabricación de instrumentos musicales",
+  "divisionCode": "32",
+  "divisionName": "Otras industrias manufactureras"
+ },
+ {
+  "code": "3230",
+  "description": "Fabricación de artículos y equipo para la práctica del deporte",
+  "groupCode": "323",
+  "groupName": "Fabricación de artículos y equipo para la práctica del deporte",
+  "divisionCode": "32",
+  "divisionName": "Otras industrias manufactureras"
+ },
+ {
+  "code": "3240",
+  "description": "Fabricación de juegos, juguetes y rompecabezas",
+  "groupCode": "324",
+  "groupName": "Fabricación de juegos, juguetes y rompecabezas",
+  "divisionCode": "32",
+  "divisionName": "Otras industrias manufactureras"
+ },
+ {
+  "code": "3250",
+  "description": "Fabricación de instrumentos, aparatos y materiales médicos y odontológicos (incluido mobiliario)",
+  "groupCode": "325",
+  "groupName": "Fabricación de instrumentos, aparatos y materiales médicos y odontológicos (incluido mobiliario)",
+  "divisionCode": "32",
+  "divisionName": "Otras industrias manufactureras"
+ },
+ {
+  "code": "3290",
+  "description": "Otras industrias manufactureras n.c.p.",
+  "groupCode": "329",
+  "groupName": "Otras industrias manufactureras n.c.p.",
+  "divisionCode": "32",
+  "divisionName": "Otras industrias manufactureras"
+ },
+ {
+  "code": "3311",
+  "description": "Mantenimiento y reparación especializado de productos elaborados en metal",
+  "groupCode": "331",
+  "groupName": "Mantenimiento y reparación especializado de productos elaborados en metal y de maquinaria y equipo",
+  "divisionCode": "33",
+  "divisionName": "Instalación, mantenimiento y reparación especializado de maquinaria y equipo"
+ },
+ {
+  "code": "3312",
+  "description": "Mantenimiento y reparación especializado de maquinaria y equipo",
+  "groupCode": "331",
+  "groupName": "Mantenimiento y reparación especializado de productos elaborados en metal y de maquinaria y equipo",
+  "divisionCode": "33",
+  "divisionName": "Instalación, mantenimiento y reparación especializado de maquinaria y equipo"
+ },
+ {
+  "code": "3313",
+  "description": "Mantenimiento y reparación especializado de equipo electrónico y óptico",
+  "groupCode": "331",
+  "groupName": "Mantenimiento y reparación especializado de productos elaborados en metal y de maquinaria y equipo",
+  "divisionCode": "33",
+  "divisionName": "Instalación, mantenimiento y reparación especializado de maquinaria y equipo"
+ },
+ {
+  "code": "3314",
+  "description": "Mantenimiento y reparación especializado de equipo eléctrico",
+  "groupCode": "331",
+  "groupName": "Mantenimiento y reparación especializado de productos elaborados en metal y de maquinaria y equipo",
+  "divisionCode": "33",
+  "divisionName": "Instalación, mantenimiento y reparación especializado de maquinaria y equipo"
+ },
+ {
+  "code": "3315",
+  "description": "Mantenimiento y reparación especializado de equipo de transporte, excepto los vehículos automotores, motocicletas y bicicletas",
+  "groupCode": "331",
+  "groupName": "Mantenimiento y reparación especializado de productos elaborados en metal y de maquinaria y equipo",
+  "divisionCode": "33",
+  "divisionName": "Instalación, mantenimiento y reparación especializado de maquinaria y equipo"
+ },
+ {
+  "code": "3319",
+  "description": "Mantenimiento y reparación de otros tipos de equipos y sus componentes n.c.p.",
+  "groupCode": "331",
+  "groupName": "Mantenimiento y reparación especializado de productos elaborados en metal y de maquinaria y equipo",
+  "divisionCode": "33",
+  "divisionName": "Instalación, mantenimiento y reparación especializado de maquinaria y equipo"
+ },
+ {
+  "code": "3320",
+  "description": "Instalación especializada de maquinaria y equipo industrial",
+  "groupCode": "332",
+  "groupName": "Instalación especializada de maquinaria y equipo industrial",
+  "divisionCode": "33",
+  "divisionName": "Instalación, mantenimiento y reparación especializado de maquinaria y equipo"
+ },
+ {
+  "code": "3511",
+  "description": "Generación de energía eléctrica",
+  "groupCode": "351",
+  "groupName": "Generación, transmisión, distribución y comercialización de energía eléctrica",
+  "divisionCode": "35",
+  "divisionName": "Suministro de electricidad, gas, vapor y aire acondicionado"
+ },
+ {
+  "code": "3512",
+  "description": "Transmisión de energía eléctrica",
+  "groupCode": "351",
+  "groupName": "Generación, transmisión, distribución y comercialización de energía eléctrica",
+  "divisionCode": "35",
+  "divisionName": "Suministro de electricidad, gas, vapor y aire acondicionado"
+ },
+ {
+  "code": "3513",
+  "description": "Distribución de energía eléctrica",
+  "groupCode": "351",
+  "groupName": "Generación, transmisión, distribución y comercialización de energía eléctrica",
+  "divisionCode": "35",
+  "divisionName": "Suministro de electricidad, gas, vapor y aire acondicionado"
+ },
+ {
+  "code": "3514",
+  "description": "Comercialización de energía eléctrica",
+  "groupCode": "351",
+  "groupName": "Generación, transmisión, distribución y comercialización de energía eléctrica",
+  "divisionCode": "35",
+  "divisionName": "Suministro de electricidad, gas, vapor y aire acondicionado"
+ },
+ {
+  "code": "3520",
+  "description": "Producción de gas; distribución de combustibles gaseosos por tuberías",
+  "groupCode": "352",
+  "groupName": "Producción de gas; distribución de combustibles gaseosos por tuberías",
+  "divisionCode": "35",
+  "divisionName": "Suministro de electricidad, gas, vapor y aire acondicionado"
+ },
+ {
+  "code": "3530",
+  "description": "Suministro de vapor y aire acondicionado",
+  "groupCode": "353",
+  "groupName": "Suministro de vapor y aire acondicionado",
+  "divisionCode": "35",
+  "divisionName": "Suministro de electricidad, gas, vapor y aire acondicionado"
+ },
+ {
+  "code": "3600",
+  "description": "Captación, tratamiento y distribución de agua",
+  "groupCode": "360",
+  "groupName": "Captación, tratamiento y distribución de agua",
+  "divisionCode": "36",
+  "divisionName": "Captación, tratamiento y distribución de agua"
+ },
+ {
+  "code": "3700",
+  "description": "Evacuación y tratamiento de aguas residuales",
+  "groupCode": "370",
+  "groupName": "Evacuación y tratamiento de aguas residuales",
+  "divisionCode": "37",
+  "divisionName": "Evacuación y tratamiento de aguas residuales"
+ },
+ {
+  "code": "3811",
+  "description": "Recolección de desechos no peligrosos",
+  "groupCode": "381",
+  "groupName": "Recolección de desechos",
+  "divisionCode": "38",
+  "divisionName": "Recolección, tratamiento y disposición de desechos, recuperación de materiales"
+ },
+ {
+  "code": "3812",
+  "description": "Recolección de desechos peligrosos",
+  "groupCode": "381",
+  "groupName": "Recolección de desechos",
+  "divisionCode": "38",
+  "divisionName": "Recolección, tratamiento y disposición de desechos, recuperación de materiales"
+ },
+ {
+  "code": "3821",
+  "description": "Tratamiento y disposición de desechos no peligrosos",
+  "groupCode": "382",
+  "groupName": "Tratamiento y disposición de desechos",
+  "divisionCode": "38",
+  "divisionName": "Recolección, tratamiento y disposición de desechos, recuperación de materiales"
+ },
+ {
+  "code": "3822",
+  "description": "Tratamiento y disposición de desechos peligrosos",
+  "groupCode": "382",
+  "groupName": "Tratamiento y disposición de desechos",
+  "divisionCode": "38",
+  "divisionName": "Recolección, tratamiento y disposición de desechos, recuperación de materiales"
+ },
+ {
+  "code": "3830",
+  "description": "Recuperación de materiales",
+  "groupCode": "383",
+  "groupName": "Recuperación de materiales",
+  "divisionCode": "38",
+  "divisionName": "Recolección, tratamiento y disposición de desechos, recuperación de materiales"
+ },
+ {
+  "code": "3900",
+  "description": "Actividades de saneamiento ambiental y otros servicios de gestión de desechos",
+  "groupCode": "390",
+  "groupName": "Actividades de saneamiento ambiental y otros servicios de gestión de desechos",
+  "divisionCode": "39",
+  "divisionName": "Actividades de saneamiento ambiental y otros servicios de gestión de desechos"
+ },
+ {
+  "code": "4111",
+  "description": "Construcción de edificios residenciales",
+  "groupCode": "411",
+  "groupName": "Construcción de edificios",
+  "divisionCode": "41",
+  "divisionName": "Construcción de edificios"
+ },
+ {
+  "code": "4112",
+  "description": "Construcción de edificios no residenciales",
+  "groupCode": "411",
+  "groupName": "Construcción de edificios",
+  "divisionCode": "41",
+  "divisionName": "Construcción de edificios"
+ },
+ {
+  "code": "4210",
+  "description": "Construcción de carreteras y vías de ferrocarril",
+  "groupCode": "421",
+  "groupName": "Construcción de carreteras y vías de ferrocarril",
+  "divisionCode": "42",
+  "divisionName": "Obras de ingeniería civil"
+ },
+ {
+  "code": "4220",
+  "description": "Construcción de proyectos de servicio público",
+  "groupCode": "422",
+  "groupName": "Construcción de proyectos de servicio público",
+  "divisionCode": "42",
+  "divisionName": "Obras de ingeniería civil"
+ },
+ {
+  "code": "4290",
+  "description": "Construcción de otras obras de ingeniería civil",
+  "groupCode": "429",
+  "groupName": "Construcción de otras obras de ingeniería civil",
+  "divisionCode": "42",
+  "divisionName": "Obras de ingeniería civil"
+ },
+ {
+  "code": "4311",
+  "description": "Demolición",
+  "groupCode": "431",
+  "groupName": "Demolición y preparación del terreno",
+  "divisionCode": "43",
+  "divisionName": "Actividades especializadas para la construcción de edificios y obras de ingeniería civil"
+ },
+ {
+  "code": "4312",
+  "description": "Preparación del terreno",
+  "groupCode": "431",
+  "groupName": "Demolición y preparación del terreno",
+  "divisionCode": "43",
+  "divisionName": "Actividades especializadas para la construcción de edificios y obras de ingeniería civil"
+ },
+ {
+  "code": "4321",
+  "description": "Instalaciones eléctricas",
+  "groupCode": "432",
+  "groupName": "Instalaciones eléctricas, de fontanería y otras instalaciones especializadas",
+  "divisionCode": "43",
+  "divisionName": "Actividades especializadas para la construcción de edificios y obras de ingeniería civil"
+ },
+ {
+  "code": "4322",
+  "description": "Instalaciones de fontanería, calefacción y aire acondicionado",
+  "groupCode": "432",
+  "groupName": "Instalaciones eléctricas, de fontanería y otras instalaciones especializadas",
+  "divisionCode": "43",
+  "divisionName": "Actividades especializadas para la construcción de edificios y obras de ingeniería civil"
+ },
+ {
+  "code": "4329",
+  "description": "Otras instalaciones especializadas",
+  "groupCode": "432",
+  "groupName": "Instalaciones eléctricas, de fontanería y otras instalaciones especializadas",
+  "divisionCode": "43",
+  "divisionName": "Actividades especializadas para la construcción de edificios y obras de ingeniería civil"
+ },
+ {
+  "code": "4330",
+  "description": "Terminación y acabado de edificios y obras de ingeniería civil",
+  "groupCode": "433",
+  "groupName": "Terminación y acabado de edificios y obras de ingeniería civil",
+  "divisionCode": "43",
+  "divisionName": "Actividades especializadas para la construcción de edificios y obras de ingeniería civil"
+ },
+ {
+  "code": "4390",
+  "description": "Otras actividades especializadas para la construcción de edificios y obras de ingeniería civil",
+  "groupCode": "439",
+  "groupName": "Otras actividades especializadas para la construcción de edificios y obras de ingeniería civil",
+  "divisionCode": "43",
+  "divisionName": "Actividades especializadas para la construcción de edificios y obras de ingeniería civil"
+ },
+ {
+  "code": "4511",
+  "description": "Comercio de vehículos automotores nuevos",
+  "groupCode": "451",
+  "groupName": "Comercio de vehículos automotores",
+  "divisionCode": "45",
+  "divisionName": "Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios"
+ },
+ {
+  "code": "4512",
+  "description": "Comercio de vehículos automotores usados",
+  "groupCode": "451",
+  "groupName": "Comercio de vehículos automotores",
+  "divisionCode": "45",
+  "divisionName": "Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios"
+ },
+ {
+  "code": "4520",
+  "description": "Mantenimiento y reparación de vehículos automotores",
+  "groupCode": "452",
+  "groupName": "Mantenimiento y reparación de vehículos automotores",
+  "divisionCode": "45",
+  "divisionName": "Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios"
+ },
+ {
+  "code": "4530",
+  "description": "Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",
+  "groupCode": "453",
+  "groupName": "Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",
+  "divisionCode": "45",
+  "divisionName": "Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios"
+ },
+ {
+  "code": "4541",
+  "description": "Comercio de motocicletas y de sus partes, piezas y accesorios",
+  "groupCode": "454",
+  "groupName": "Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios",
+  "divisionCode": "45",
+  "divisionName": "Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios"
+ },
+ {
+  "code": "4542",
+  "description": "Mantenimiento y reparación de motocicletas y de sus partes y piezas",
+  "groupCode": "454",
+  "groupName": "Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios",
+  "divisionCode": "45",
+  "divisionName": "Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios"
+ },
+ {
+  "code": "4610",
+  "description": "Comercio al por mayor a cambio de una retribución o por contrata",
+  "groupCode": "461",
+  "groupName": "Comercio al por mayor a cambio de una retribución o por contrata",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4620",
+  "description": "Comercio al por mayor de materias primas agropecuarias; animales vivos",
+  "groupCode": "462",
+  "groupName": "Comercio al por mayor de materias primas agropecuarias; animales vivos",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4631",
+  "description": "Comercio al por mayor de productos alimenticios",
+  "groupCode": "463",
+  "groupName": "Comercio al por mayor de alimentos, bebidas y tabaco",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4632",
+  "description": "Comercio al por mayor de bebidas y tabaco",
+  "groupCode": "463",
+  "groupName": "Comercio al por mayor de alimentos, bebidas y tabaco",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4641",
+  "description": "Comercio al por mayor de productos textiles, productos confeccionados para uso doméstico",
+  "groupCode": "464",
+  "groupName": "Comercio al por mayor de artículos y enseres domésticos (incluidas prendas de vestir)",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4642",
+  "description": "Comercio al por mayor de prendas de vestir",
+  "groupCode": "464",
+  "groupName": "Comercio al por mayor de artículos y enseres domésticos (incluidas prendas de vestir)",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4643",
+  "description": "Comercio al por mayor de calzado",
+  "groupCode": "464",
+  "groupName": "Comercio al por mayor de artículos y enseres domésticos (incluidas prendas de vestir)",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4644",
+  "description": "Comercio al por mayor de aparatos y equipo de uso doméstico",
+  "groupCode": "464",
+  "groupName": "Comercio al por mayor de artículos y enseres domésticos (incluidas prendas de vestir)",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4645",
+  "description": "Comercio al por mayor de productos farmacéuticos, medicinales, cosméticos y de tocador",
+  "groupCode": "464",
+  "groupName": "Comercio al por mayor de artículos y enseres domésticos (incluidas prendas de vestir)",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4649",
+  "description": "Comercio al por mayor de otros utensilios domésticos n.c.p.",
+  "groupCode": "464",
+  "groupName": "Comercio al por mayor de artículos y enseres domésticos (incluidas prendas de vestir)",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4651",
+  "description": "Comercio al por mayor de computadores, equipo periférico y programas de informática",
+  "groupCode": "465",
+  "groupName": "Comercio al por mayor de maquinaria y equipo",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4652",
+  "description": "Comercio al por mayor de equipo, partes y piezas electrónicos y de telecomunicaciones",
+  "groupCode": "465",
+  "groupName": "Comercio al por mayor de maquinaria y equipo",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4653",
+  "description": "Comercio al por mayor de maquinaria y equipo agropecuarios",
+  "groupCode": "465",
+  "groupName": "Comercio al por mayor de maquinaria y equipo",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4659",
+  "description": "Comercio al por mayor de otros tipos de maquinaria y equipo n.c.p.",
+  "groupCode": "465",
+  "groupName": "Comercio al por mayor de maquinaria y equipo",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4661",
+  "description": "Comercio al por mayor de combustibles sólidos, líquidos, gaseosos y productos conexos",
+  "groupCode": "466",
+  "groupName": "Comercio al por mayor especializado de otros productos",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4662",
+  "description": "Comercio al por mayor de metales y productos metalíferos",
+  "groupCode": "466",
+  "groupName": "Comercio al por mayor especializado de otros productos",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4663",
+  "description": "Comercio al por mayor de materiales de construcción, artículos de ferretería, pinturas, productos de vidrio, equipo y materiales de fontanería y calefacción",
+  "groupCode": "466",
+  "groupName": "Comercio al por mayor especializado de otros productos",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4664",
+  "description": "Comercio al por mayor de productos químicos básicos, cauchos y plásticos en formas primarias y productos químicos de uso agropecuario",
+  "groupCode": "466",
+  "groupName": "Comercio al por mayor especializado de otros productos",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4665",
+  "description": "Comercio al por mayor de desperdicios, desechos y chatarra",
+  "groupCode": "466",
+  "groupName": "Comercio al por mayor especializado de otros productos",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4669",
+  "description": "Comercio al por mayor de otros productos n.c.p.",
+  "groupCode": "466",
+  "groupName": "Comercio al por mayor especializado de otros productos",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4690",
+  "description": "Comercio al por mayor no especializado",
+  "groupCode": "469",
+  "groupName": "Comercio al por mayor no especializado",
+  "divisionCode": "46",
+  "divisionName": "Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4711",
+  "description": "Comercio al por menor en establecimientos no especializados con surtido compuesto principalmente por alimentos, bebidas (alcohólicas y no alcohólicas) o tabaco",
+  "groupCode": "471",
+  "groupName": "Comercio al por menor en establecimientos no especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4719",
+  "description": "Comercio al por menor en establecimientos no especializados, con surtido compuesto principalmente por productos diferentes de alimentos (víveres en general), bebidas (alcohólicas y no alcohólicas) y tabaco",
+  "groupCode": "471",
+  "groupName": "Comercio al por menor en establecimientos no especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4721",
+  "description": "Comercio al por menor de productos agrícolas para el consumo en establecimientos especializados",
+  "groupCode": "472",
+  "groupName": "Comercio al por menor de alimentos (víveres en general), bebidas y tabaco, en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4722",
+  "description": "Comercio al por menor de leche, productos lácteos y huevos, en establecimientos especializados",
+  "groupCode": "472",
+  "groupName": "Comercio al por menor de alimentos (víveres en general), bebidas y tabaco, en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4723",
+  "description": "Comercio al por menor de carnes (incluye aves de corral), productos cárnicos, pescados y productos de mar, en establecimientos especializados",
+  "groupCode": "472",
+  "groupName": "Comercio al por menor de alimentos (víveres en general), bebidas y tabaco, en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4724",
+  "description": "Comercio al por menor de bebidas y productos del tabaco, en establecimientos especializados",
+  "groupCode": "472",
+  "groupName": "Comercio al por menor de alimentos (víveres en general), bebidas y tabaco, en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4729",
+  "description": "Comercio al por menor de otros productos alimenticios n.c.p., en establecimientos especializados",
+  "groupCode": "472",
+  "groupName": "Comercio al por menor de alimentos (víveres en general), bebidas y tabaco, en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4731",
+  "description": "Comercio al por menor de combustible para automotores",
+  "groupCode": "473",
+  "groupName": "Comercio al por menor de combustible, lubricantes, aditivos y productos de limpieza para automotores, en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4732",
+  "description": "Comercio al por menor de lubricantes (aceites, grasas), aditivos y productos de limpieza para vehículos automotores",
+  "groupCode": "473",
+  "groupName": "Comercio al por menor de combustible, lubricantes, aditivos y productos de limpieza para automotores, en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4741",
+  "description": "Comercio al por menor de computadores, equipos periféricos, programas de informática y equipos de telecomunicaciones en establecimientos especializados",
+  "groupCode": "474",
+  "groupName": "Comercio al por menor de equipos de informática y de comunicaciones, en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4742",
+  "description": "Comercio al por menor de equipos y aparatos de sonido y de video, en establecimientos especializados",
+  "groupCode": "474",
+  "groupName": "Comercio al por menor de equipos de informática y de comunicaciones, en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4751",
+  "description": "Comercio al por menor de productos textiles en establecimientos especializados",
+  "groupCode": "475",
+  "groupName": "Comercio al por menor de otros enseres domésticos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4752",
+  "description": "Comercio al por menor de artículos de ferretería, pinturas y productos de vidrio en establecimientos especializados",
+  "groupCode": "475",
+  "groupName": "Comercio al por menor de otros enseres domésticos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4753",
+  "description": "Comercio al por menor de tapices, alfombras y cubrimientos para paredes y pisos en establecimientos especializados.",
+  "groupCode": "475",
+  "groupName": "Comercio al por menor de otros enseres domésticos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4754",
+  "description": "Comercio al por menor de electrodomésticos y gasodomésticos, muebles y equipos de iluminación en establecimientos especializados",
+  "groupCode": "475",
+  "groupName": "Comercio al por menor de otros enseres domésticos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4755",
+  "description": "Comercio al por menor de artículos y utensilios de uso doméstico en establecimientos especializados",
+  "groupCode": "475",
+  "groupName": "Comercio al por menor de otros enseres domésticos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4759",
+  "description": "Comercio al por menor de otros artículos domésticos en establecimientos especializados",
+  "groupCode": "475",
+  "groupName": "Comercio al por menor de otros enseres domésticos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4761",
+  "description": "Comercio al por menor de libros, periódicos, materiales y artículos de papelería y escritorio, en establecimientos especializados",
+  "groupCode": "476",
+  "groupName": "Comercio al por menor de artículos culturales y de entretenimiento en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4762",
+  "description": "Comercio al por menor de artículos deportivos, en establecimientos especializados",
+  "groupCode": "476",
+  "groupName": "Comercio al por menor de artículos culturales y de entretenimiento en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4769",
+  "description": "Comercio al por menor de otros artículos culturales y de entretenimiento n.c.p. en establecimientos especializados",
+  "groupCode": "476",
+  "groupName": "Comercio al por menor de artículos culturales y de entretenimiento en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4771",
+  "description": "Comercio al por menor de prendas de vestir y sus accesorios (incluye artículos de piel) en establecimientos especializados",
+  "groupCode": "477",
+  "groupName": "Comercio al por menor de otros productos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4772",
+  "description": "Comercio al por menor de todo tipo de calzado y artículos de cuero y sucedáneos del cuero en establecimientos especializados.",
+  "groupCode": "477",
+  "groupName": "Comercio al por menor de otros productos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4773",
+  "description": "Comercio al por menor de productos farmacéuticos y medicinales, cosméticos y artículos de tocador en establecimientos especializados",
+  "groupCode": "477",
+  "groupName": "Comercio al por menor de otros productos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4774",
+  "description": "Comercio al por menor de otros productos nuevos en establecimientos especializados",
+  "groupCode": "477",
+  "groupName": "Comercio al por menor de otros productos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4775",
+  "description": "Comercio al por menor de artículos de segunda mano",
+  "groupCode": "477",
+  "groupName": "Comercio al por menor de otros productos en establecimientos especializados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4781",
+  "description": "Comercio al por menor de alimentos, bebidas y tabaco, en puestos de venta móviles",
+  "groupCode": "478",
+  "groupName": "Comercio al por menor en puestos de venta móviles",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4782",
+  "description": "Comercio al por menor de productos textiles, prendas de vestir y calzado, en puestos de venta móviles",
+  "groupCode": "478",
+  "groupName": "Comercio al por menor en puestos de venta móviles",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4789",
+  "description": "Comercio al por menor de otros productos en puestos de venta móviles",
+  "groupCode": "478",
+  "groupName": "Comercio al por menor en puestos de venta móviles",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4791",
+  "description": "Comercio al por menor realizado a través de Internet",
+  "groupCode": "479",
+  "groupName": "Comercio al por menor no realizado en establecimientos, puestos de venta o mercados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4792",
+  "description": "Comercio al por menor realizado a través de casas de venta o por correo",
+  "groupCode": "479",
+  "groupName": "Comercio al por menor no realizado en establecimientos, puestos de venta o mercados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4799",
+  "description": "Otros tipos de comercio al por menor no realizado en establecimientos, puestos de venta o mercados.",
+  "groupCode": "479",
+  "groupName": "Comercio al por menor no realizado en establecimientos, puestos de venta o mercados",
+  "divisionCode": "47",
+  "divisionName": "Comercio al por menor (incluso el comercio al por menor de combustibles), excepto el de vehículos automotores y motocicletas"
+ },
+ {
+  "code": "4911",
+  "description": "Transporte férreo de pasajeros",
+  "groupCode": "491",
+  "groupName": "Transporte férreo",
+  "divisionCode": "49",
+  "divisionName": "Transporte terrestre; transporte por tuberías"
+ },
+ {
+  "code": "4912",
+  "description": "Transporte férreo de carga",
+  "groupCode": "491",
+  "groupName": "Transporte férreo",
+  "divisionCode": "49",
+  "divisionName": "Transporte terrestre; transporte por tuberías"
+ },
+ {
+  "code": "4921",
+  "description": "Transporte de pasajeros",
+  "groupCode": "492",
+  "groupName": "Transporte terrestre público automotor",
+  "divisionCode": "49",
+  "divisionName": "Transporte terrestre; transporte por tuberías"
+ },
+ {
+  "code": "4922",
+  "description": "Transporte mixto",
+  "groupCode": "492",
+  "groupName": "Transporte terrestre público automotor",
+  "divisionCode": "49",
+  "divisionName": "Transporte terrestre; transporte por tuberías"
+ },
+ {
+  "code": "4923",
+  "description": "Transporte de carga por carretera",
+  "groupCode": "492",
+  "groupName": "Transporte terrestre público automotor",
+  "divisionCode": "49",
+  "divisionName": "Transporte terrestre; transporte por tuberías"
+ },
+ {
+  "code": "4930",
+  "description": "Transporte por tuberías",
+  "groupCode": "493",
+  "groupName": "Transporte por tuberías",
+  "divisionCode": "49",
+  "divisionName": "Transporte terrestre; transporte por tuberías"
+ },
+ {
+  "code": "5011",
+  "description": "Transporte de pasajeros marítimo y de cabotaje",
+  "groupCode": "501",
+  "groupName": "Transporte marítimo y de cabotaje",
+  "divisionCode": "50",
+  "divisionName": "Transporte acuático"
+ },
+ {
+  "code": "5012",
+  "description": "Transporte de carga marítimo y de cabotaje",
+  "groupCode": "501",
+  "groupName": "Transporte marítimo y de cabotaje",
+  "divisionCode": "50",
+  "divisionName": "Transporte acuático"
+ },
+ {
+  "code": "5021",
+  "description": "Transporte fluvial de pasajeros",
+  "groupCode": "502",
+  "groupName": "Transporte fluvial",
+  "divisionCode": "50",
+  "divisionName": "Transporte acuático"
+ },
+ {
+  "code": "5022",
+  "description": "Transporte fluvial de carga",
+  "groupCode": "502",
+  "groupName": "Transporte fluvial",
+  "divisionCode": "50",
+  "divisionName": "Transporte acuático"
+ },
+ {
+  "code": "5111",
+  "description": "Transporte aéreo nacional de pasajeros",
+  "groupCode": "511",
+  "groupName": "Transporte aéreo de pasajeros",
+  "divisionCode": "51",
+  "divisionName": "Transporte aéreo"
+ },
+ {
+  "code": "5112",
+  "description": "Transporte aéreo internacional de pasajeros",
+  "groupCode": "511",
+  "groupName": "Transporte aéreo de pasajeros",
+  "divisionCode": "51",
+  "divisionName": "Transporte aéreo"
+ },
+ {
+  "code": "5121",
+  "description": "Transporte aéreo nacional de carga",
+  "groupCode": "512",
+  "groupName": "Transporte aéreo de carga",
+  "divisionCode": "51",
+  "divisionName": "Transporte aéreo"
+ },
+ {
+  "code": "5122",
+  "description": "Transporte aéreo internacional de carga",
+  "groupCode": "512",
+  "groupName": "Transporte aéreo de carga",
+  "divisionCode": "51",
+  "divisionName": "Transporte aéreo"
+ },
+ {
+  "code": "5210",
+  "description": "Almacenamiento y depósito",
+  "groupCode": "521",
+  "groupName": "Almacenamiento y depósito",
+  "divisionCode": "52",
+  "divisionName": "Almacenamiento y actividades complementarias al transporte"
+ },
+ {
+  "code": "5221",
+  "description": "Actividades de estaciones, vías y servicios complementarios para el transporte terrestre",
+  "groupCode": "522",
+  "groupName": "Actividades de las estaciones, vías y servicios complementarios para el transporte",
+  "divisionCode": "52",
+  "divisionName": "Almacenamiento y actividades complementarias al transporte"
+ },
+ {
+  "code": "5222",
+  "description": "Actividades de puertos y servicios complementarios para el transporte acuático",
+  "groupCode": "522",
+  "groupName": "Actividades de las estaciones, vías y servicios complementarios para el transporte",
+  "divisionCode": "52",
+  "divisionName": "Almacenamiento y actividades complementarias al transporte"
+ },
+ {
+  "code": "5223",
+  "description": "Actividades de aeropuertos, servicios de navegación aérea y demás actividades conexas al transporte aéreo",
+  "groupCode": "522",
+  "groupName": "Actividades de las estaciones, vías y servicios complementarios para el transporte",
+  "divisionCode": "52",
+  "divisionName": "Almacenamiento y actividades complementarias al transporte"
+ },
+ {
+  "code": "5224",
+  "description": "Manipulación de carga",
+  "groupCode": "522",
+  "groupName": "Actividades de las estaciones, vías y servicios complementarios para el transporte",
+  "divisionCode": "52",
+  "divisionName": "Almacenamiento y actividades complementarias al transporte"
+ },
+ {
+  "code": "5229",
+  "description": "Otras actividades complementarias al transporte",
+  "groupCode": "522",
+  "groupName": "Actividades de las estaciones, vías y servicios complementarios para el transporte",
+  "divisionCode": "52",
+  "divisionName": "Almacenamiento y actividades complementarias al transporte"
+ },
+ {
+  "code": "5310",
+  "description": "Actividades postales nacionales",
+  "groupCode": "531",
+  "groupName": "Actividades postales nacionales",
+  "divisionCode": "53",
+  "divisionName": "Correo y servicios de mensajería"
+ },
+ {
+  "code": "5320",
+  "description": "Actividades de mensajería",
+  "groupCode": "532",
+  "groupName": "Actividades de mensajería",
+  "divisionCode": "53",
+  "divisionName": "Correo y servicios de mensajería"
+ },
+ {
+  "code": "5511",
+  "description": "Alojamiento en hoteles",
+  "groupCode": "551",
+  "groupName": "Actividades de alojamiento de estancias cortas",
+  "divisionCode": "55",
+  "divisionName": "Alojamiento"
+ },
+ {
+  "code": "5512",
+  "description": "Alojamiento en apartahoteles",
+  "groupCode": "551",
+  "groupName": "Actividades de alojamiento de estancias cortas",
+  "divisionCode": "55",
+  "divisionName": "Alojamiento"
+ },
+ {
+  "code": "5513",
+  "description": "Alojamiento en centros vacacionales",
+  "groupCode": "551",
+  "groupName": "Actividades de alojamiento de estancias cortas",
+  "divisionCode": "55",
+  "divisionName": "Alojamiento"
+ },
+ {
+  "code": "5514",
+  "description": "Alojamiento rural",
+  "groupCode": "551",
+  "groupName": "Actividades de alojamiento de estancias cortas",
+  "divisionCode": "55",
+  "divisionName": "Alojamiento"
+ },
+ {
+  "code": "5519",
+  "description": "Otros tipos de alojamientos para visitantes",
+  "groupCode": "551",
+  "groupName": "Actividades de alojamiento de estancias cortas",
+  "divisionCode": "55",
+  "divisionName": "Alojamiento"
+ },
+ {
+  "code": "5520",
+  "description": "Actividades de zonas de camping y parques para vehículos recreacionales",
+  "groupCode": "552",
+  "groupName": "Actividades de zonas de camping y parques para vehículos recreacionales",
+  "divisionCode": "55",
+  "divisionName": "Alojamiento"
+ },
+ {
+  "code": "5530",
+  "description": "Servicio de estancia por horas",
+  "groupCode": "553",
+  "groupName": "Servicio de estancia por horas",
+  "divisionCode": "55",
+  "divisionName": "Alojamiento"
+ },
+ {
+  "code": "5590",
+  "description": "Otros tipos de alojamiento n.c.p.",
+  "groupCode": "559",
+  "groupName": "Otros tipos de alojamiento n.c.p.",
+  "divisionCode": "55",
+  "divisionName": "Alojamiento"
+ },
+ {
+  "code": "5611",
+  "description": "Expendio a la mesa de comidas preparadas",
+  "groupCode": "561",
+  "groupName": "Actividades de restaurantes, cafeterías y servicio móvil de comidas",
+  "divisionCode": "56",
+  "divisionName": "Actividades de servicios de comidas y bebidas"
+ },
+ {
+  "code": "5612",
+  "description": "Expendio por autoservicio de comidas preparadas",
+  "groupCode": "561",
+  "groupName": "Actividades de restaurantes, cafeterías y servicio móvil de comidas",
+  "divisionCode": "56",
+  "divisionName": "Actividades de servicios de comidas y bebidas"
+ },
+ {
+  "code": "5613",
+  "description": "Expendio de comidas preparadas en cafeterías",
+  "groupCode": "561",
+  "groupName": "Actividades de restaurantes, cafeterías y servicio móvil de comidas",
+  "divisionCode": "56",
+  "divisionName": "Actividades de servicios de comidas y bebidas"
+ },
+ {
+  "code": "5619",
+  "description": "Otros tipos de expendio de comidas preparadas n.c.p.",
+  "groupCode": "561",
+  "groupName": "Actividades de restaurantes, cafeterías y servicio móvil de comidas",
+  "divisionCode": "56",
+  "divisionName": "Actividades de servicios de comidas y bebidas"
+ },
+ {
+  "code": "5621",
+  "description": "Catering para eventos",
+  "groupCode": "562",
+  "groupName": "Actividades de catering para eventos y otros servicios de comidas",
+  "divisionCode": "56",
+  "divisionName": "Actividades de servicios de comidas y bebidas"
+ },
+ {
+  "code": "5629",
+  "description": "Actividades de otros servicios de comidas",
+  "groupCode": "562",
+  "groupName": "Actividades de catering para eventos y otros servicios de comidas",
+  "divisionCode": "56",
+  "divisionName": "Actividades de servicios de comidas y bebidas"
+ },
+ {
+  "code": "5630",
+  "description": "Expendio de bebidas alcohólicas para el consumo dentro del establecimiento",
+  "groupCode": "563",
+  "groupName": "Expendio de bebidas alcohólicas para el consumo dentro del establecimiento",
+  "divisionCode": "56",
+  "divisionName": "Actividades de servicios de comidas y bebidas"
+ },
+ {
+  "code": "5811",
+  "description": "Edición de libros",
+  "groupCode": "581",
+  "groupName": "Edición de libros, publicaciones periódicas y otras actividades de edición",
+  "divisionCode": "58",
+  "divisionName": "Actividades de edición"
+ },
+ {
+  "code": "5812",
+  "description": "Edición de directorios y listas de correo",
+  "groupCode": "581",
+  "groupName": "Edición de libros, publicaciones periódicas y otras actividades de edición",
+  "divisionCode": "58",
+  "divisionName": "Actividades de edición"
+ },
+ {
+  "code": "5813",
+  "description": "Edición de periódicos, revistas y otras publicaciones periódicas",
+  "groupCode": "581",
+  "groupName": "Edición de libros, publicaciones periódicas y otras actividades de edición",
+  "divisionCode": "58",
+  "divisionName": "Actividades de edición"
+ },
+ {
+  "code": "5819",
+  "description": "Otros trabajos de edición",
+  "groupCode": "581",
+  "groupName": "Edición de libros, publicaciones periódicas y otras actividades de edición",
+  "divisionCode": "58",
+  "divisionName": "Actividades de edición"
+ },
+ {
+  "code": "5820",
+  "description": "Edición de programas de informática (software)",
+  "groupCode": "582",
+  "groupName": "Edición de programas de informática (software)",
+  "divisionCode": "58",
+  "divisionName": "Actividades de edición"
+ },
+ {
+  "code": "5911",
+  "description": "Actividades de producción de películas cinematográficas, videos, programas, anuncios y comerciales de televisión",
+  "groupCode": "591",
+  "groupName": "Actividades de producción de películas cinematográficas, video y producción de programas, anuncios y comerciales de televisión",
+  "divisionCode": "59",
+  "divisionName": "Actividades cinematográficas, de video y producción de programas de televisión, grabación de sonido y edición de música"
+ },
+ {
+  "code": "5912",
+  "description": "Actividades de postproducción de películas cinematográficas, videos, programas, anuncios y comerciales de televisión",
+  "groupCode": "591",
+  "groupName": "Actividades de producción de películas cinematográficas, video y producción de programas, anuncios y comerciales de televisión",
+  "divisionCode": "59",
+  "divisionName": "Actividades cinematográficas, de video y producción de programas de televisión, grabación de sonido y edición de música"
+ },
+ {
+  "code": "5913",
+  "description": "Actividades de distribución de películas cinematográficas, videos, programas, anuncios y comerciales de televisión",
+  "groupCode": "591",
+  "groupName": "Actividades de producción de películas cinematográficas, video y producción de programas, anuncios y comerciales de televisión",
+  "divisionCode": "59",
+  "divisionName": "Actividades cinematográficas, de video y producción de programas de televisión, grabación de sonido y edición de música"
+ },
+ {
+  "code": "5914",
+  "description": "Actividades de exhibición de películas cinematográficas y videos",
+  "groupCode": "591",
+  "groupName": "Actividades de producción de películas cinematográficas, video y producción de programas, anuncios y comerciales de televisión",
+  "divisionCode": "59",
+  "divisionName": "Actividades cinematográficas, de video y producción de programas de televisión, grabación de sonido y edición de música"
+ },
+ {
+  "code": "5920",
+  "description": "Actividades de grabación de sonido y edición de música",
+  "groupCode": "592",
+  "groupName": "Actividades de grabación de sonido y edición de música",
+  "divisionCode": "59",
+  "divisionName": "Actividades cinematográficas, de video y producción de programas de televisión, grabación de sonido y edición de música"
+ },
+ {
+  "code": "6010",
+  "description": "Actividades de programación y transmisión en el servicio de radiodifusión sonora",
+  "groupCode": "601",
+  "groupName": "Actividades de programación y transmisión en el servicio de radiodifusión sonora",
+  "divisionCode": "60",
+  "divisionName": "Actividades de programación, transmisión y/o difusión"
+ },
+ {
+  "code": "6020",
+  "description": "Actividades de programación y transmisión de televisión",
+  "groupCode": "602",
+  "groupName": "Actividades de programación y transmisión de televisión",
+  "divisionCode": "60",
+  "divisionName": "Actividades de programación, transmisión y/o difusión"
+ },
+ {
+  "code": "6110",
+  "description": "Actividades de telecomunicaciones alámbricas",
+  "groupCode": "611",
+  "groupName": "Actividades de telecomunicaciones alámbricas",
+  "divisionCode": "61",
+  "divisionName": "Telecomunicaciones"
+ },
+ {
+  "code": "6120",
+  "description": "Actividades de telecomunicaciones inalámbricas",
+  "groupCode": "612",
+  "groupName": "Actividades de telecomunicaciones inalámbricas",
+  "divisionCode": "61",
+  "divisionName": "Telecomunicaciones"
+ },
+ {
+  "code": "6130",
+  "description": "Actividades de telecomunicación satelital",
+  "groupCode": "613",
+  "groupName": "Actividades de telecomunicación satelital",
+  "divisionCode": "61",
+  "divisionName": "Telecomunicaciones"
+ },
+ {
+  "code": "6190",
+  "description": "Otras actividades de telecomunicaciones",
+  "groupCode": "619",
+  "groupName": "Otras actividades de telecomunicaciones",
+  "divisionCode": "61",
+  "divisionName": "Telecomunicaciones"
+ },
+ {
+  "code": "6201",
+  "description": "Actividades de desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas)",
+  "groupCode": "620",
+  "groupName": "Desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas), consultoría informática y actividades relacionadas",
+  "divisionCode": "62",
+  "divisionName": "Desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas), consultoría informática y actividades relacionadas"
+ },
+ {
+  "code": "6202",
+  "description": "Actividades de consultoría informática y actividades de administración de instalaciones informáticas",
+  "groupCode": "620",
+  "groupName": "Desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas), consultoría informática y actividades relacionadas",
+  "divisionCode": "62",
+  "divisionName": "Desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas), consultoría informática y actividades relacionadas"
+ },
+ {
+  "code": "6209",
+  "description": "Otras actividades de tecnologías de información y actividades de servicios informáticos",
+  "groupCode": "620",
+  "groupName": "Desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas), consultoría informática y actividades relacionadas",
+  "divisionCode": "62",
+  "divisionName": "Desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas), consultoría informática y actividades relacionadas"
+ },
+ {
+  "code": "6311",
+  "description": "Procesamiento de datos, alojamiento (hosting) y actividades relacionadas",
+  "groupCode": "631",
+  "groupName": "Procesamiento de datos, alojamiento (hosting) y actividades relacionadas; portales web",
+  "divisionCode": "63",
+  "divisionName": "Actividades de servicios de información"
+ },
+ {
+  "code": "6312",
+  "description": "Portales web",
+  "groupCode": "631",
+  "groupName": "Procesamiento de datos, alojamiento (hosting) y actividades relacionadas; portales web",
+  "divisionCode": "63",
+  "divisionName": "Actividades de servicios de información"
+ },
+ {
+  "code": "6391",
+  "description": "Actividades de agencias de noticias",
+  "groupCode": "639",
+  "groupName": "Otras actividades de servicio de información",
+  "divisionCode": "63",
+  "divisionName": "Actividades de servicios de información"
+ },
+ {
+  "code": "6399",
+  "description": "Otras actividades de servicio de información n.c.p.",
+  "groupCode": "639",
+  "groupName": "Otras actividades de servicio de información",
+  "divisionCode": "63",
+  "divisionName": "Actividades de servicios de información"
+ },
+ {
+  "code": "6411",
+  "description": "Banco Central",
+  "groupCode": "641",
+  "groupName": "Intermediación monetaria",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6412",
+  "description": "Bancos comerciales",
+  "groupCode": "641",
+  "groupName": "Intermediación monetaria",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6421",
+  "description": "Actividades de las corporaciones financieras",
+  "groupCode": "642",
+  "groupName": "Otros tipos de intermediación monetaria",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6422",
+  "description": "Actividades de las compañías de financiamiento",
+  "groupCode": "642",
+  "groupName": "Otros tipos de intermediación monetaria",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6423",
+  "description": "Banca de segundo piso",
+  "groupCode": "642",
+  "groupName": "Otros tipos de intermediación monetaria",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6424",
+  "description": "Actividades de las cooperativas financieras",
+  "groupCode": "642",
+  "groupName": "Otros tipos de intermediación monetaria",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6431",
+  "description": "Fideicomisos, fondos y entidades financieras similares",
+  "groupCode": "643",
+  "groupName": "Fideicomisos, fondos (incluye fondos de cesantías) y entidades financieras similares",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6432",
+  "description": "Fondos de cesantías",
+  "groupCode": "643",
+  "groupName": "Fideicomisos, fondos (incluye fondos de cesantías) y entidades financieras similares",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6491",
+  "description": "Leasing financiero (arrendamiento financiero)",
+  "groupCode": "649",
+  "groupName": "Otras actividades de servicio financiero, excepto las de seguros y pensiones",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6492",
+  "description": "Actividades financieras de fondos de empleados y otras formas asociativas del sector solidario",
+  "groupCode": "649",
+  "groupName": "Otras actividades de servicio financiero, excepto las de seguros y pensiones",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6493",
+  "description": "Actividades de compra de cartera o factoring",
+  "groupCode": "649",
+  "groupName": "Otras actividades de servicio financiero, excepto las de seguros y pensiones",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6494",
+  "description": "Otras actividades de distribución de fondos",
+  "groupCode": "649",
+  "groupName": "Otras actividades de servicio financiero, excepto las de seguros y pensiones",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6495",
+  "description": "Instituciones especiales oficiales",
+  "groupCode": "649",
+  "groupName": "Otras actividades de servicio financiero, excepto las de seguros y pensiones",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6496",
+  "description": "Capitalización",
+  "groupCode": "649",
+  "groupName": "Otras actividades de servicio financiero, excepto las de seguros y pensiones",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6499",
+  "description": "Otras actividades de servicio financiero, excepto las de seguros y pensiones n.c.p.",
+  "groupCode": "649",
+  "groupName": "Otras actividades de servicio financiero, excepto las de seguros y pensiones",
+  "divisionCode": "64",
+  "divisionName": "Actividades de servicios financieros, excepto las de seguros y de pensiones"
+ },
+ {
+  "code": "6511",
+  "description": "Seguros generales",
+  "groupCode": "651",
+  "groupName": "Seguros",
+  "divisionCode": "65",
+  "divisionName": "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social"
+ },
+ {
+  "code": "6512",
+  "description": "Seguros de vida",
+  "groupCode": "651",
+  "groupName": "Seguros",
+  "divisionCode": "65",
+  "divisionName": "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social"
+ },
+ {
+  "code": "6513",
+  "description": "Reaseguros",
+  "groupCode": "651",
+  "groupName": "Seguros",
+  "divisionCode": "65",
+  "divisionName": "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social"
+ },
+ {
+  "code": "6515",
+  "description": "Seguros de salud",
+  "groupCode": "651",
+  "groupName": "Seguros",
+  "divisionCode": "65",
+  "divisionName": "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social"
+ },
+ {
+  "code": "6521",
+  "description": "Servicios de seguros sociales de salud",
+  "groupCode": "652",
+  "groupName": "Servicios de seguros sociales excepto los de pensiones",
+  "divisionCode": "65",
+  "divisionName": "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social"
+ },
+ {
+  "code": "6522",
+  "description": "Servicios de seguros sociales en riesgos laborales",
+  "groupCode": "652",
+  "groupName": "Servicios de seguros sociales excepto los de pensiones",
+  "divisionCode": "65",
+  "divisionName": "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social"
+ },
+ {
+  "code": "6523",
+  "description": "Servicios de seguros sociales en riesgos familia",
+  "groupCode": "652",
+  "groupName": "Servicios de seguros sociales excepto los de pensiones",
+  "divisionCode": "65",
+  "divisionName": "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social"
+ },
+ {
+  "code": "6531",
+  "description": "Régimen de prima media con prestación definida (RPM)",
+  "groupCode": "653",
+  "groupName": "Servicios de seguros sociales en pensiones, excepto los programas de seguridad social",
+  "divisionCode": "65",
+  "divisionName": "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social"
+ },
+ {
+  "code": "6532",
+  "description": "Régimen de ahorro individual con solidaridad (RAIS)",
+  "groupCode": "653",
+  "groupName": "Servicios de seguros sociales en pensiones, excepto los programas de seguridad social",
+  "divisionCode": "65",
+  "divisionName": "Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social"
+ },
+ {
+  "code": "6611",
+  "description": "Administración de mercados financieros",
+  "groupCode": "661",
+  "groupName": "Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y pensiones",
+  "divisionCode": "66",
+  "divisionName": "Actividades auxiliares de las actividades de servicios financieros"
+ },
+ {
+  "code": "6612",
+  "description": "Corretaje de valores y de contratos de productos básicos",
+  "groupCode": "661",
+  "groupName": "Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y pensiones",
+  "divisionCode": "66",
+  "divisionName": "Actividades auxiliares de las actividades de servicios financieros"
+ },
+ {
+  "code": "6613",
+  "description": "Otras actividades relacionadas con el mercado de valores",
+  "groupCode": "661",
+  "groupName": "Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y pensiones",
+  "divisionCode": "66",
+  "divisionName": "Actividades auxiliares de las actividades de servicios financieros"
+ },
+ {
+  "code": "6614",
+  "description": "Actividades de las sociedades de intermediación cambiaria y de servicios financieros especiales",
+  "groupCode": "661",
+  "groupName": "Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y pensiones",
+  "divisionCode": "66",
+  "divisionName": "Actividades auxiliares de las actividades de servicios financieros"
+ },
+ {
+  "code": "6615",
+  "description": "Actividades de los profesionales de compra y venta de divisas",
+  "groupCode": "661",
+  "groupName": "Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y pensiones",
+  "divisionCode": "66",
+  "divisionName": "Actividades auxiliares de las actividades de servicios financieros"
+ },
+ {
+  "code": "6619",
+  "description": "Otras actividades auxiliares de las actividades de servicios financieros n.c.p.",
+  "groupCode": "661",
+  "groupName": "Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y pensiones",
+  "divisionCode": "66",
+  "divisionName": "Actividades auxiliares de las actividades de servicios financieros"
+ },
+ {
+  "code": "6621",
+  "description": "Actividades de agentes y corredores de seguros",
+  "groupCode": "662",
+  "groupName": "Actividades de servicios auxiliares de los servicios de seguros y pensiones",
+  "divisionCode": "66",
+  "divisionName": "Actividades auxiliares de las actividades de servicios financieros"
+ },
+ {
+  "code": "6629",
+  "description": "Evaluación de riesgos y daños, y otras actividades de servicios auxiliares",
+  "groupCode": "662",
+  "groupName": "Actividades de servicios auxiliares de los servicios de seguros y pensiones",
+  "divisionCode": "66",
+  "divisionName": "Actividades auxiliares de las actividades de servicios financieros"
+ },
+ {
+  "code": "6630",
+  "description": "Actividades de administración de fondos",
+  "groupCode": "663",
+  "groupName": "Actividades de administración de fondos",
+  "divisionCode": "66",
+  "divisionName": "Actividades auxiliares de las actividades de servicios financieros"
+ },
+ {
+  "code": "6810",
+  "description": "Actividades inmobiliarias realizadas con bienes propios o arrendados",
+  "groupCode": "681",
+  "groupName": "Actividades inmobiliarias realizadas con bienes propios o arrendados",
+  "divisionCode": "68",
+  "divisionName": "Actividades inmobiliarias"
+ },
+ {
+  "code": "6820",
+  "description": "Actividades inmobiliarias realizadas a cambio de una retribución o por contrata",
+  "groupCode": "682",
+  "groupName": "Actividades inmobiliarias realizadas a cambio de una retribución o por contrata",
+  "divisionCode": "68",
+  "divisionName": "Actividades inmobiliarias"
+ },
+ {
+  "code": "6910",
+  "description": "Actividades jurídicas",
+  "groupCode": "691",
+  "groupName": "Actividades jurídicas",
+  "divisionCode": "69",
+  "divisionName": "Actividades jurídicas y de contabilidad"
+ },
+ {
+  "code": "6920",
+  "description": "Actividades de contabilidad, teneduría de libros, auditoría financiera y asesoría tributaria",
+  "groupCode": "692",
+  "groupName": "Actividades de contabilidad, teneduría de libros, auditoría financiera y asesoría tributaria",
+  "divisionCode": "69",
+  "divisionName": "Actividades jurídicas y de contabilidad"
+ },
+ {
+  "code": "7010",
+  "description": "Actividades de administración empresarial",
+  "groupCode": "701",
+  "groupName": "Actividades de administración empresarial",
+  "divisionCode": "70",
+  "divisionName": "Actividades de administración empresarial; actividades de consultoría de gestión"
+ },
+ {
+  "code": "7020",
+  "description": "Actividades de consultoría de gestión",
+  "groupCode": "702",
+  "groupName": "Actividades de consultoría de gestión",
+  "divisionCode": "70",
+  "divisionName": "Actividades de administración empresarial; actividades de consultoría de gestión"
+ },
+ {
+  "code": "7111",
+  "description": "Actividades de arquitectura",
+  "groupCode": "711",
+  "groupName": "Actividades de arquitectura e ingeniería y otras actividades conexas de consultoría técnica",
+  "divisionCode": "71",
+  "divisionName": "Actividades de arquitectura e ingeniería; ensayos y análisis técnicos"
+ },
+ {
+  "code": "7112",
+  "description": "Actividades de ingeniería y otras actividades conexas de consultoría técnica",
+  "groupCode": "711",
+  "groupName": "Actividades de arquitectura e ingeniería y otras actividades conexas de consultoría técnica",
+  "divisionCode": "71",
+  "divisionName": "Actividades de arquitectura e ingeniería; ensayos y análisis técnicos"
+ },
+ {
+  "code": "7120",
+  "description": "Ensayos y análisis técnicos",
+  "groupCode": "712",
+  "groupName": "Ensayos y análisis técnicos",
+  "divisionCode": "71",
+  "divisionName": "Actividades de arquitectura e ingeniería; ensayos y análisis técnicos"
+ },
+ {
+  "code": "7210",
+  "description": "Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería",
+  "groupCode": "721",
+  "groupName": "Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería",
+  "divisionCode": "72",
+  "divisionName": "Investigación científica y desarrollo"
+ },
+ {
+  "code": "7220",
+  "description": "Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades",
+  "groupCode": "722",
+  "groupName": "Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades",
+  "divisionCode": "72",
+  "divisionName": "Investigación científica y desarrollo"
+ },
+ {
+  "code": "7310",
+  "description": "Publicidad",
+  "groupCode": "731",
+  "groupName": "Publicidad",
+  "divisionCode": "73",
+  "divisionName": "Publicidad y estudios de mercado"
+ },
+ {
+  "code": "7320",
+  "description": "Estudios de mercado y realización de encuestas de opinión pública",
+  "groupCode": "732",
+  "groupName": "Estudios de mercado y realización de encuestas de opinión pública",
+  "divisionCode": "73",
+  "divisionName": "Publicidad y estudios de mercado"
+ },
+ {
+  "code": "7410",
+  "description": "Actividades especializadas de diseño",
+  "groupCode": "741",
+  "groupName": "Actividades especializadas de diseño",
+  "divisionCode": "74",
+  "divisionName": "Otras actividades profesionales, científicas y técnicas"
+ },
+ {
+  "code": "7420",
+  "description": "Actividades de fotografía",
+  "groupCode": "742",
+  "groupName": "Actividades de fotografía",
+  "divisionCode": "74",
+  "divisionName": "Otras actividades profesionales, científicas y técnicas"
+ },
+ {
+  "code": "7490",
+  "description": "Otras actividades profesionales, científicas y técnicas n.c.p.",
+  "groupCode": "749",
+  "groupName": "Otras actividades profesionales, científicas y técnicas n.c.p.",
+  "divisionCode": "74",
+  "divisionName": "Otras actividades profesionales, científicas y técnicas"
+ },
+ {
+  "code": "7500",
+  "description": "Actividades veterinarias",
+  "groupCode": "750",
+  "groupName": "Actividades veterinarias",
+  "divisionCode": "75",
+  "divisionName": "Actividades veterinarias"
+ },
+ {
+  "code": "7710",
+  "description": "Alquiler y arrendamiento de vehículos automotores",
+  "groupCode": "771",
+  "groupName": "Alquiler y arrendamiento de vehículos automotores",
+  "divisionCode": "77",
+  "divisionName": "Actividades de alquiler y arrendamiento"
+ },
+ {
+  "code": "7721",
+  "description": "Alquiler y arrendamiento de equipo recreativo y deportivo",
+  "groupCode": "772",
+  "groupName": "Alquiler y arrendamiento de efectos personales y enseres domésticos",
+  "divisionCode": "77",
+  "divisionName": "Actividades de alquiler y arrendamiento"
+ },
+ {
+  "code": "7722",
+  "description": "Alquiler de videos y discos",
+  "groupCode": "772",
+  "groupName": "Alquiler y arrendamiento de efectos personales y enseres domésticos",
+  "divisionCode": "77",
+  "divisionName": "Actividades de alquiler y arrendamiento"
+ },
+ {
+  "code": "7729",
+  "description": "Alquiler y arrendamiento de otros efectos personales y enseres domésticos n.c.p.",
+  "groupCode": "772",
+  "groupName": "Alquiler y arrendamiento de efectos personales y enseres domésticos",
+  "divisionCode": "77",
+  "divisionName": "Actividades de alquiler y arrendamiento"
+ },
+ {
+  "code": "7730",
+  "description": "Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles n.c.p.",
+  "groupCode": "773",
+  "groupName": "Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles n.c.p.",
+  "divisionCode": "77",
+  "divisionName": "Actividades de alquiler y arrendamiento"
+ },
+ {
+  "code": "7740",
+  "description": "Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor",
+  "groupCode": "774",
+  "groupName": "Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor",
+  "divisionCode": "77",
+  "divisionName": "Actividades de alquiler y arrendamiento"
+ },
+ {
+  "code": "7810",
+  "description": "Actividades de agencias de gestión y colocación de empleo",
+  "groupCode": "781",
+  "groupName": "Actividades de agencias de gestión y colocación de empleo",
+  "divisionCode": "78",
+  "divisionName": "Actividades de empleo"
+ },
+ {
+  "code": "7820",
+  "description": "Actividades de empresas de servicios temporales",
+  "groupCode": "782",
+  "groupName": "Actividades de empresas de servicios temporales",
+  "divisionCode": "78",
+  "divisionName": "Actividades de empleo"
+ },
+ {
+  "code": "7830",
+  "description": "Otras actividades de provisión de talento humano",
+  "groupCode": "783",
+  "groupName": "Otras actividades de provisión de talento humano",
+  "divisionCode": "78",
+  "divisionName": "Actividades de empleo"
+ },
+ {
+  "code": "7911",
+  "description": "Actividades de las agencias de viaje",
+  "groupCode": "791",
+  "groupName": "Actividades de las agencias de viajes y operadores turísticos",
+  "divisionCode": "79",
+  "divisionName": "Actividades de las agencias de viajes, operadores turísticos, servicios de reserva y actividades relacionadas"
+ },
+ {
+  "code": "7912",
+  "description": "Actividades de operadores turísticos",
+  "groupCode": "791",
+  "groupName": "Actividades de las agencias de viajes y operadores turísticos",
+  "divisionCode": "79",
+  "divisionName": "Actividades de las agencias de viajes, operadores turísticos, servicios de reserva y actividades relacionadas"
+ },
+ {
+  "code": "7990",
+  "description": "Otros servicios de reserva y actividades relacionadas",
+  "groupCode": "799",
+  "groupName": "Otros servicios de reserva y actividades relacionadas",
+  "divisionCode": "79",
+  "divisionName": "Actividades de las agencias de viajes, operadores turísticos, servicios de reserva y actividades relacionadas"
+ },
+ {
+  "code": "8010",
+  "description": "Actividades de seguridad privada",
+  "groupCode": "801",
+  "groupName": "Actividades de seguridad privada",
+  "divisionCode": "80",
+  "divisionName": "Actividades de seguridad e investigación privada"
+ },
+ {
+  "code": "8020",
+  "description": "Actividades de servicios de sistemas de seguridad",
+  "groupCode": "802",
+  "groupName": "Actividades de servicios de sistemas de seguridad",
+  "divisionCode": "80",
+  "divisionName": "Actividades de seguridad e investigación privada"
+ },
+ {
+  "code": "8030",
+  "description": "Actividades de detectives e investigadores privados",
+  "groupCode": "803",
+  "groupName": "Actividades de detectives e investigadores privados",
+  "divisionCode": "80",
+  "divisionName": "Actividades de seguridad e investigación privada"
+ },
+ {
+  "code": "8110",
+  "description": "Actividades combinadas de apoyo a instalaciones",
+  "groupCode": "811",
+  "groupName": "Actividades combinadas de apoyo a instalaciones",
+  "divisionCode": "81",
+  "divisionName": "Actividades de servicios a edificios y paisajismo (jardines, zonas verdes)"
+ },
+ {
+  "code": "8121",
+  "description": "Limpieza general interior de edificios",
+  "groupCode": "812",
+  "groupName": "Actividades de limpieza",
+  "divisionCode": "81",
+  "divisionName": "Actividades de servicios a edificios y paisajismo (jardines, zonas verdes)"
+ },
+ {
+  "code": "8129",
+  "description": "Otras actividades de limpieza de edificios e instalaciones industriales",
+  "groupCode": "812",
+  "groupName": "Actividades de limpieza",
+  "divisionCode": "81",
+  "divisionName": "Actividades de servicios a edificios y paisajismo (jardines, zonas verdes)"
+ },
+ {
+  "code": "8130",
+  "description": "Actividades de paisajismo y servicios de mantenimiento conexos",
+  "groupCode": "813",
+  "groupName": "Actividades de paisajismo y servicios de mantenimiento conexos",
+  "divisionCode": "81",
+  "divisionName": "Actividades de servicios a edificios y paisajismo (jardines, zonas verdes)"
+ },
+ {
+  "code": "8211",
+  "description": "Actividades combinadas de servicios administrativos de oficina",
+  "groupCode": "821",
+  "groupName": "Actividades administrativas y de apoyo de oficina",
+  "divisionCode": "82",
+  "divisionName": "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas"
+ },
+ {
+  "code": "8219",
+  "description": "Fotocopiado, preparación de documentos y otras actividades especializadas de apoyo a oficina",
+  "groupCode": "821",
+  "groupName": "Actividades administrativas y de apoyo de oficina",
+  "divisionCode": "82",
+  "divisionName": "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas"
+ },
+ {
+  "code": "8220",
+  "description": "Actividades de centros de llamadas (call center)",
+  "groupCode": "822",
+  "groupName": "Actividades de centros de llamadas (call center)",
+  "divisionCode": "82",
+  "divisionName": "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas"
+ },
+ {
+  "code": "8230",
+  "description": "Organización de convenciones y eventos comerciales",
+  "groupCode": "823",
+  "groupName": "Organización de convenciones y eventos comerciales",
+  "divisionCode": "82",
+  "divisionName": "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas"
+ },
+ {
+  "code": "8291",
+  "description": "Actividades de agencias de cobranza y oficinas de calificación crediticia",
+  "groupCode": "829",
+  "groupName": "Actividades de servicios de apoyo a las empresas n.c.p.",
+  "divisionCode": "82",
+  "divisionName": "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas"
+ },
+ {
+  "code": "8292",
+  "description": "Actividades de envase y empaque",
+  "groupCode": "829",
+  "groupName": "Actividades de servicios de apoyo a las empresas n.c.p.",
+  "divisionCode": "82",
+  "divisionName": "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas"
+ },
+ {
+  "code": "8299",
+  "description": "Otras actividades de servicio de apoyo a las empresas n.c.p.",
+  "groupCode": "829",
+  "groupName": "Actividades de servicios de apoyo a las empresas n.c.p.",
+  "divisionCode": "82",
+  "divisionName": "Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas"
+ },
+ {
+  "code": "8411",
+  "description": "Actividades legislativas de la administración pública",
+  "groupCode": "841",
+  "groupName": "Administración del Estado y aplicación de la política económica y social de la comunidad",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8412",
+  "description": "Actividades ejecutivas de la administración pública",
+  "groupCode": "841",
+  "groupName": "Administración del Estado y aplicación de la política económica y social de la comunidad",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8413",
+  "description": "Regulación de las actividades de organismos que prestan servicios de salud, educativos, culturales y otros servicios sociales, excepto servicios de seguridad social",
+  "groupCode": "841",
+  "groupName": "Administración del Estado y aplicación de la política económica y social de la comunidad",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8414",
+  "description": "Actividades reguladoras y facilitadoras de la actividad económica",
+  "groupCode": "841",
+  "groupName": "Administración del Estado y aplicación de la política económica y social de la comunidad",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8415",
+  "description": "Actividades de los órganos de control y otras instituciones",
+  "groupCode": "841",
+  "groupName": "Administración del Estado y aplicación de la política económica y social de la comunidad",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8421",
+  "description": "Relaciones exteriores",
+  "groupCode": "842",
+  "groupName": "Prestación de servicios a la comunidad en general",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8422",
+  "description": "Actividades de defensa",
+  "groupCode": "842",
+  "groupName": "Prestación de servicios a la comunidad en general",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8423",
+  "description": "Orden público y actividades de seguridad",
+  "groupCode": "842",
+  "groupName": "Prestación de servicios a la comunidad en general",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8424",
+  "description": "Administración de justicia",
+  "groupCode": "842",
+  "groupName": "Prestación de servicios a la comunidad en general",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8430",
+  "description": "Actividades de planes de Seguridad Social de afiliación obligatoria",
+  "groupCode": "843",
+  "groupName": "Actividades de planes de Seguridad Social de afiliación obligatoria",
+  "divisionCode": "84",
+  "divisionName": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+ },
+ {
+  "code": "8511",
+  "description": "Educación de la primera infancia",
+  "groupCode": "851",
+  "groupName": "Educación de la primera infancia, preescolar y básica primaria",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8512",
+  "description": "Educación preescolar",
+  "groupCode": "851",
+  "groupName": "Educación de la primera infancia, preescolar y básica primaria",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8513",
+  "description": "Educación básica primaria",
+  "groupCode": "851",
+  "groupName": "Educación de la primera infancia, preescolar y básica primaria",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8521",
+  "description": "Educación básica secundaria",
+  "groupCode": "852",
+  "groupName": "Educación secundaria y de formación laboral",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8522",
+  "description": "Educación media académica",
+  "groupCode": "852",
+  "groupName": "Educación secundaria y de formación laboral",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8523",
+  "description": "Educación media técnica",
+  "groupCode": "852",
+  "groupName": "Educación secundaria y de formación laboral",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8530",
+  "description": "Establecimientos que combinan diferentes niveles de educación",
+  "groupCode": "853",
+  "groupName": "Establecimientos que combinan diferentes niveles de educación",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8541",
+  "description": "Educación técnica profesional",
+  "groupCode": "854",
+  "groupName": "Educación superior",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8542",
+  "description": "Educación tecnológica",
+  "groupCode": "854",
+  "groupName": "Educación superior",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8543",
+  "description": "Educación de instituciones universitarias o de escuelas tecnológicas",
+  "groupCode": "854",
+  "groupName": "Educación superior",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8544",
+  "description": "Educación de universidades",
+  "groupCode": "854",
+  "groupName": "Educación superior",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8551",
+  "description": "Formación para el trabajo",
+  "groupCode": "855",
+  "groupName": "Otros tipos de educación",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8552",
+  "description": "Enseñanza deportiva y recreativa",
+  "groupCode": "855",
+  "groupName": "Otros tipos de educación",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8553",
+  "description": "Enseñanza cultural",
+  "groupCode": "855",
+  "groupName": "Otros tipos de educación",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8559",
+  "description": "Otros tipos de educación n.c.p.",
+  "groupCode": "855",
+  "groupName": "Otros tipos de educación",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8560",
+  "description": "Actividades de apoyo a la educación",
+  "groupCode": "856",
+  "groupName": "Actividades de apoyo a la educación",
+  "divisionCode": "85",
+  "divisionName": "Educación"
+ },
+ {
+  "code": "8610",
+  "description": "Actividades de hospitales y clínicas, con internación",
+  "groupCode": "861",
+  "groupName": "Actividades de hospitales y clínicas, con internación",
+  "divisionCode": "86",
+  "divisionName": "Actividades de atención de la salud humana"
+ },
+ {
+  "code": "8621",
+  "description": "Actividades de la práctica médica, sin internación",
+  "groupCode": "862",
+  "groupName": "Actividades de práctica médica y odontológica, sin internación",
+  "divisionCode": "86",
+  "divisionName": "Actividades de atención de la salud humana"
+ },
+ {
+  "code": "8622",
+  "description": "Actividades de la práctica odontológica",
+  "groupCode": "862",
+  "groupName": "Actividades de práctica médica y odontológica, sin internación",
+  "divisionCode": "86",
+  "divisionName": "Actividades de atención de la salud humana"
+ },
+ {
+  "code": "8691",
+  "description": "Actividades de apoyo diagnóstico",
+  "groupCode": "869",
+  "groupName": "Otras actividades de atención relacionadas con la salud humana",
+  "divisionCode": "86",
+  "divisionName": "Actividades de atención de la salud humana"
+ },
+ {
+  "code": "8692",
+  "description": "Actividades de apoyo terapéutico",
+  "groupCode": "869",
+  "groupName": "Otras actividades de atención relacionadas con la salud humana",
+  "divisionCode": "86",
+  "divisionName": "Actividades de atención de la salud humana"
+ },
+ {
+  "code": "8699",
+  "description": "Otras actividades de atención de la salud humana",
+  "groupCode": "869",
+  "groupName": "Otras actividades de atención relacionadas con la salud humana",
+  "divisionCode": "86",
+  "divisionName": "Actividades de atención de la salud humana"
+ },
+ {
+  "code": "8710",
+  "description": "Actividades de atención residencial medicalizada de tipo general",
+  "groupCode": "871",
+  "groupName": "Actividades de atención residencial medicalizada de tipo general",
+  "divisionCode": "87",
+  "divisionName": "Actividades de atención residencial medicalizada"
+ },
+ {
+  "code": "8720",
+  "description": "Actividades de atención residencial, para el cuidado de pacientes con retardo mental, enfermedad mental y consumo de sustancias psicoactivas",
+  "groupCode": "872",
+  "groupName": "Actividades de atención residencial, para el cuidado de pacientes con retardo mental, enfermedad mental y consumo de sustancias psicoactivas",
+  "divisionCode": "87",
+  "divisionName": "Actividades de atención residencial medicalizada"
+ },
+ {
+  "code": "8730",
+  "description": "Actividades de atención en instituciones para el cuidado de personas mayores y/o discapacitadas",
+  "groupCode": "873",
+  "groupName": "Actividades de atención en instituciones para el cuidado de personas mayores y/o discapacitadas",
+  "divisionCode": "87",
+  "divisionName": "Actividades de atención residencial medicalizada"
+ },
+ {
+  "code": "8790",
+  "description": "Otras actividades de atención en instituciones con alojamiento",
+  "groupCode": "879",
+  "groupName": "Otras actividades de atención en instituciones con alojamiento",
+  "divisionCode": "87",
+  "divisionName": "Actividades de atención residencial medicalizada"
+ },
+ {
+  "code": "8810",
+  "description": "Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas",
+  "groupCode": "881",
+  "groupName": "Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas",
+  "divisionCode": "88",
+  "divisionName": "Actividades de asistencia social sin alojamiento"
+ },
+ {
+  "code": "8891",
+  "description": "Actividades de guarderías para niños y niñas",
+  "groupCode": "889",
+  "groupName": "Otras actividades de asistencia social sin alojamiento",
+  "divisionCode": "88",
+  "divisionName": "Actividades de asistencia social sin alojamiento"
+ },
+ {
+  "code": "8899",
+  "description": "Otras actividades de asistencia social sin alojamiento n.c.p.",
+  "groupCode": "889",
+  "groupName": "Otras actividades de asistencia social sin alojamiento",
+  "divisionCode": "88",
+  "divisionName": "Actividades de asistencia social sin alojamiento"
+ },
+ {
+  "code": "9001",
+  "description": "Creación literaria",
+  "groupCode": "900",
+  "groupName": "Actividades creativas, artísticas y de entretenimiento",
+  "divisionCode": "90",
+  "divisionName": "Actividades creativas, artísticas y de entretenimiento"
+ },
+ {
+  "code": "9002",
+  "description": "Creación musical",
+  "groupCode": "900",
+  "groupName": "Actividades creativas, artísticas y de entretenimiento",
+  "divisionCode": "90",
+  "divisionName": "Actividades creativas, artísticas y de entretenimiento"
+ },
+ {
+  "code": "9003",
+  "description": "Creación teatral",
+  "groupCode": "900",
+  "groupName": "Actividades creativas, artísticas y de entretenimiento",
+  "divisionCode": "90",
+  "divisionName": "Actividades creativas, artísticas y de entretenimiento"
+ },
+ {
+  "code": "9004",
+  "description": "Creación audiovisual",
+  "groupCode": "900",
+  "groupName": "Actividades creativas, artísticas y de entretenimiento",
+  "divisionCode": "90",
+  "divisionName": "Actividades creativas, artísticas y de entretenimiento"
+ },
+ {
+  "code": "9005",
+  "description": "Artes plásticas y visuales",
+  "groupCode": "900",
+  "groupName": "Actividades creativas, artísticas y de entretenimiento",
+  "divisionCode": "90",
+  "divisionName": "Actividades creativas, artísticas y de entretenimiento"
+ },
+ {
+  "code": "9006",
+  "description": "Actividades teatrales",
+  "groupCode": "900",
+  "groupName": "Actividades creativas, artísticas y de entretenimiento",
+  "divisionCode": "90",
+  "divisionName": "Actividades creativas, artísticas y de entretenimiento"
+ },
+ {
+  "code": "9007",
+  "description": "Actividades de espectáculos musicales en vivo",
+  "groupCode": "900",
+  "groupName": "Actividades creativas, artísticas y de entretenimiento",
+  "divisionCode": "90",
+  "divisionName": "Actividades creativas, artísticas y de entretenimiento"
+ },
+ {
+  "code": "9008",
+  "description": "Otras actividades de espectáculos en vivo n.c.p.",
+  "groupCode": "900",
+  "groupName": "Actividades creativas, artísticas y de entretenimiento",
+  "divisionCode": "90",
+  "divisionName": "Actividades creativas, artísticas y de entretenimiento"
+ },
+ {
+  "code": "9101",
+  "description": "Actividades de Bibliotecas y archivos",
+  "groupCode": "910",
+  "groupName": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "divisionCode": "91",
+  "divisionName": "Actividades de bibliotecas, archivos, museos y otras actividades culturales"
+ },
+ {
+  "code": "9102",
+  "description": "Actividades y funcionamiento de museos, conservación de edificios y sitios históricos",
+  "groupCode": "910",
+  "groupName": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "divisionCode": "91",
+  "divisionName": "Actividades de bibliotecas, archivos, museos y otras actividades culturales"
+ },
+ {
+  "code": "9103",
+  "description": "Actividades de jardines botánicos, zoológicos y reservas naturales",
+  "groupCode": "910",
+  "groupName": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "divisionCode": "91",
+  "divisionName": "Actividades de bibliotecas, archivos, museos y otras actividades culturales"
+ },
+ {
+  "code": "9200",
+  "description": "Actividades de juegos de azar y apuestas",
+  "groupCode": "920",
+  "groupName": "Actividades de juegos de azar y apuestas",
+  "divisionCode": "92",
+  "divisionName": "Actividades de juegos de azar y apuestas"
+ },
+ {
+  "code": "9311",
+  "description": "Gestión de instalaciones deportivas",
+  "groupCode": "931",
+  "groupName": "Actividades deportivas",
+  "divisionCode": "93",
+  "divisionName": "Actividades deportivas y actividades recreativas y de esparcimiento"
+ },
+ {
+  "code": "9312",
+  "description": "Actividades de clubes deportivos",
+  "groupCode": "931",
+  "groupName": "Actividades deportivas",
+  "divisionCode": "93",
+  "divisionName": "Actividades deportivas y actividades recreativas y de esparcimiento"
+ },
+ {
+  "code": "9319",
+  "description": "Otras actividades deportivas",
+  "groupCode": "931",
+  "groupName": "Actividades deportivas",
+  "divisionCode": "93",
+  "divisionName": "Actividades deportivas y actividades recreativas y de esparcimiento"
+ },
+ {
+  "code": "9321",
+  "description": "Actividades de parques de atracciones y parques temáticos",
+  "groupCode": "932",
+  "groupName": "Otras actividades recreativas y de esparcimiento",
+  "divisionCode": "93",
+  "divisionName": "Actividades deportivas y actividades recreativas y de esparcimiento"
+ },
+ {
+  "code": "9329",
+  "description": "Otras actividades recreativas y de esparcimiento n.c.p.",
+  "groupCode": "932",
+  "groupName": "Otras actividades recreativas y de esparcimiento",
+  "divisionCode": "93",
+  "divisionName": "Actividades deportivas y actividades recreativas y de esparcimiento"
+ },
+ {
+  "code": "9411",
+  "description": "Actividades de asociaciones empresariales y de empleadores",
+  "groupCode": "941",
+  "groupName": "Actividades de asociaciones empresariales y de empleadores, y asociaciones profesionales",
+  "divisionCode": "94",
+  "divisionName": "Actividades de asociaciones"
+ },
+ {
+  "code": "9412",
+  "description": "Actividades de asociaciones profesionales",
+  "groupCode": "941",
+  "groupName": "Actividades de asociaciones empresariales y de empleadores, y asociaciones profesionales",
+  "divisionCode": "94",
+  "divisionName": "Actividades de asociaciones"
+ },
+ {
+  "code": "9420",
+  "description": "Actividades de sindicatos de empleados",
+  "groupCode": "942",
+  "groupName": "Actividades de sindicatos de empleados",
+  "divisionCode": "94",
+  "divisionName": "Actividades de asociaciones"
+ },
+ {
+  "code": "9491",
+  "description": "Actividades de asociaciones religiosas",
+  "groupCode": "949",
+  "groupName": "Actividades de otras asociaciones",
+  "divisionCode": "94",
+  "divisionName": "Actividades de asociaciones"
+ },
+ {
+  "code": "9492",
+  "description": "Actividades de asociaciones políticas",
+  "groupCode": "949",
+  "groupName": "Actividades de otras asociaciones",
+  "divisionCode": "94",
+  "divisionName": "Actividades de asociaciones"
+ },
+ {
+  "code": "9499",
+  "description": "Actividades de otras asociaciones n.c.p.",
+  "groupCode": "949",
+  "groupName": "Actividades de otras asociaciones",
+  "divisionCode": "94",
+  "divisionName": "Actividades de asociaciones"
+ },
+ {
+  "code": "9511",
+  "description": "Mantenimiento y reparación de computadores y de equipo periférico",
+  "groupCode": "951",
+  "groupName": "Mantenimiento y reparación de computadores y equipo de comunicaciones",
+  "divisionCode": "95",
+  "divisionName": "Mantenimiento y reparación de computadores, efectos personales y enseres domésticos."
+ },
+ {
+  "code": "9512",
+  "description": "Mantenimiento y reparación de equipos de comunicación",
+  "groupCode": "951",
+  "groupName": "Mantenimiento y reparación de computadores y equipo de comunicaciones",
+  "divisionCode": "95",
+  "divisionName": "Mantenimiento y reparación de computadores, efectos personales y enseres domésticos."
+ },
+ {
+  "code": "9521",
+  "description": "Mantenimiento y reparación de aparatos electrónicos de consumo",
+  "groupCode": "952",
+  "groupName": "Mantenimiento y reparación de efectos personales y enseres domésticos.",
+  "divisionCode": "95",
+  "divisionName": "Mantenimiento y reparación de computadores, efectos personales y enseres domésticos."
+ },
+ {
+  "code": "9522",
+  "description": "Mantenimiento y reparación de aparatos y equipos domésticos y de jardinería",
+  "groupCode": "952",
+  "groupName": "Mantenimiento y reparación de efectos personales y enseres domésticos.",
+  "divisionCode": "95",
+  "divisionName": "Mantenimiento y reparación de computadores, efectos personales y enseres domésticos."
+ },
+ {
+  "code": "9523",
+  "description": "Reparación de calzado y artículos de cuero",
+  "groupCode": "952",
+  "groupName": "Mantenimiento y reparación de efectos personales y enseres domésticos.",
+  "divisionCode": "95",
+  "divisionName": "Mantenimiento y reparación de computadores, efectos personales y enseres domésticos."
+ },
+ {
+  "code": "9524",
+  "description": "Reparación de muebles y accesorios para el hogar",
+  "groupCode": "952",
+  "groupName": "Mantenimiento y reparación de efectos personales y enseres domésticos.",
+  "divisionCode": "95",
+  "divisionName": "Mantenimiento y reparación de computadores, efectos personales y enseres domésticos."
+ },
+ {
+  "code": "9529",
+  "description": "Mantenimiento y reparación de otros efectos personales y enseres domésticos",
+  "groupCode": "952",
+  "groupName": "Mantenimiento y reparación de efectos personales y enseres domésticos.",
+  "divisionCode": "95",
+  "divisionName": "Mantenimiento y reparación de computadores, efectos personales y enseres domésticos."
+ },
+ {
+  "code": "9601",
+  "description": "Lavado y limpieza, incluso la limpieza en seco, de productos textiles y de piel",
+  "groupCode": "960",
+  "groupName": "Otras actividades de servicios personales",
+  "divisionCode": "96",
+  "divisionName": "Otras actividades de servicios personales"
+ },
+ {
+  "code": "9602",
+  "description": "Peluquería y otros tratamientos de belleza",
+  "groupCode": "960",
+  "groupName": "Otras actividades de servicios personales",
+  "divisionCode": "96",
+  "divisionName": "Otras actividades de servicios personales"
+ },
+ {
+  "code": "9603",
+  "description": "Pompas fúnebres y actividades relacionadas",
+  "groupCode": "960",
+  "groupName": "Otras actividades de servicios personales",
+  "divisionCode": "96",
+  "divisionName": "Otras actividades de servicios personales"
+ },
+ {
+  "code": "9609",
+  "description": "Otras actividades de servicios personales n.c.p.",
+  "groupCode": "960",
+  "groupName": "Otras actividades de servicios personales",
+  "divisionCode": "96",
+  "divisionName": "Otras actividades de servicios personales"
+ },
+ {
+  "code": "9700",
+  "description": "Actividades de los hogares individuales como empleadores de personal doméstico",
+  "groupCode": "970",
+  "groupName": "Actividades de los hogares individuales como empleadores de personal doméstico",
+  "divisionCode": "97",
+  "divisionName": "Actividades de los hogares individuales como empleadores de personal doméstico"
+ },
+ {
+  "code": "9810",
+  "description": "Actividades no diferenciadas de los hogares individuales como productores de bienes para uso propio",
+  "groupCode": "981",
+  "groupName": "Actividades no diferenciadas de los hogares individuales como productores de bienes para uso propio",
+  "divisionCode": "98",
+  "divisionName": "Actividades no diferenciadas de los hogares individuales como productores de bienes y servicios para uso propio"
+ },
+ {
+  "code": "9820",
+  "description": "Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio",
+  "groupCode": "982",
+  "groupName": "Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio",
+  "divisionCode": "98",
+  "divisionName": "Actividades no diferenciadas de los hogares individuales como productores de bienes y servicios para uso propio"
+ },
+ {
+  "code": "9900",
+  "description": "Actividades de organizaciones y entidades extraterritoriales",
+  "groupCode": "990",
+  "groupName": "Actividades de organizaciones y entidades extraterritoriales",
+  "divisionCode": "99",
+  "divisionName": "Actividades de organizaciones y entidades extraterritoriales"
+ }
+]
