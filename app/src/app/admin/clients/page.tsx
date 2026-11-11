@@ -83,7 +83,11 @@ export default async function ClientsPage({
               const debts = sum(c.creditAccounts.map((d) => d.balance));
               return (
                 <tr key={c.id} className="border-b border-neutral-300/40">
-                  <td className="p-2">{c.fullName}</td>
+                  <td className="p-2">
+                    <Link href={`/admin/clients/${c.id}`} className="underline hover:opacity-70">
+                      {c.fullName}
+                    </Link>
+                  </td>
                   <td className="p-2">
                     {c.documentType} {c.documentNumber}
                   </td>

@@ -93,7 +93,7 @@ model Client {
   economicActivity   EconomicActivity? @relation(fields: [economicActivityId], references: [id])
   yearsExperience    Int?
   maritalStatus      MaritalStatus?
-  dependents         Int               @default(0)
+  dependents         Int?
   email              String?
   phone              String?
   importBatchId      Int?
