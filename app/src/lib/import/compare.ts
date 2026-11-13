@@ -3,7 +3,7 @@
 // and it never lets an empty cell erase one. Different non-empty values are reported as conflicts
 // and the value already in the system is kept.
 // Pure functions: no database and no Excel in here.
-import type { ImportPlan, ParsedClient, Problem } from "./validate";
+import type { ImportPlan, MaritalStatus, OccupationType, ParsedClient, Problem } from "./validate";
 
 export type ExistingClient = {
   id: string;
@@ -25,7 +25,23 @@ export type ExistingClient = {
 };
 
 export type FieldChange = { field: string; current: string; incoming: string }; // display-ready text
-export type SectionNote = { section: string; rows: number; existing?: number };
+export type SectionKey = "incomes" | "assets" | "expenses" | "creditAccounts";
+export type SectionNote = { key: SectionKey; section: string; rows: number; existing?: number };
+
+// The exact values to write into an existing client: only fields that are empty today.
+export type ClientPatch = {
+  fullName?: string;
+  birthDate?: Date;
+  profession?: string;
+  occupationType?: OccupationType;
+  jobTitle?: string;
+  economicActivityCode?: string;
+  yearsExperience?: number;
+  maritalStatus?: MaritalStatus;
+  dependents?: number;
+  email?: string;
+  phone?: string;
+};
 
 export type ClientAction =
   | { kind: "create"; client: ParsedClient }
@@ -34,6 +50,7 @@ export type ClientAction =
       client: ParsedClient;
       existingId: string;
       fills: FieldChange[];
+      patch: ClientPatch;
       conflicts: FieldChange[];
       added: SectionNote[];
       skipped: SectionNote[];
@@ -57,21 +74,22 @@ type FieldSpec = {
   current: (e: ExistingClient) => string;
   show?: (v: string) => string;
   same?: (a: string, b: string) => boolean;
+  apply: (c: ParsedClient, p: ClientPatch) => void; // copies the incoming value into the patch
 };
 
 const FIELDS: FieldSpec[] = [
-  { label: "Nombre", incoming: (c) => c.fullName, current: (e) => e.fullName },
-  { label: "Fecha de nacimiento", incoming: (c) => iso(c.birthDate), current: (e) => iso(e.birthDate) },
-  { label: "Profesión", incoming: (c) => c.profession ?? "", current: (e) => e.profession ?? "" },
-  { label: "Ocupación", incoming: (c) => c.occupationType ?? "", current: (e) => e.occupationType ?? "", show: (v) => OCCUPATION_ES[v] ?? v },
-  { label: "Cargo", incoming: (c) => c.jobTitle ?? "", current: (e) => e.jobTitle ?? "" },
-  { label: "Actividad económica (CIIU)", incoming: (c) => c.ciiuCode ?? "", current: (e) => e.economicActivityCode ?? "" },
-  { label: "Años de experiencia", incoming: (c) => num(c.yearsExperience), current: (e) => num(e.yearsExperience) },
-  { label: "Estado civil", incoming: (c) => c.maritalStatus ?? "", current: (e) => e.maritalStatus ?? "", show: (v) => MARITAL_ES[v] ?? v },
-  { label: "Personas a cargo", incoming: (c) => num(c.dependents), current: (e) => num(e.dependents) },
-  { label: "Correo", incoming: (c) => c.email ?? "", current: (e) => e.email ?? "" },
+  { label: "Nombre", incoming: (c) => c.fullName, current: (e) => e.fullName, apply: (c, p) => { p.fullName = c.fullName; } },
+  { label: "Fecha de nacimiento", incoming: (c) => iso(c.birthDate), current: (e) => iso(e.birthDate), apply: (c, p) => { p.birthDate = c.birthDate; } },
+  { label: "Profesión", incoming: (c) => c.profession ?? "", current: (e) => e.profession ?? "", apply: (c, p) => { p.profession = c.profession; } },
+  { label: "Ocupación", incoming: (c) => c.occupationType ?? "", current: (e) => e.occupationType ?? "", show: (v) => OCCUPATION_ES[v] ?? v, apply: (c, p) => { p.occupationType = c.occupationType; } },
+  { label: "Cargo", incoming: (c) => c.jobTitle ?? "", current: (e) => e.jobTitle ?? "", apply: (c, p) => { p.jobTitle = c.jobTitle; } },
+  { label: "Actividad económica (CIIU)", incoming: (c) => c.ciiuCode ?? "", current: (e) => e.economicActivityCode ?? "", apply: (c, p) => { p.economicActivityCode = c.ciiuCode; } },
+  { label: "Años de experiencia", incoming: (c) => num(c.yearsExperience), current: (e) => num(e.yearsExperience), apply: (c, p) => { p.yearsExperience = c.yearsExperience; } },
+  { label: "Estado civil", incoming: (c) => c.maritalStatus ?? "", current: (e) => e.maritalStatus ?? "", show: (v) => MARITAL_ES[v] ?? v, apply: (c, p) => { p.maritalStatus = c.maritalStatus; } },
+  { label: "Personas a cargo", incoming: (c) => num(c.dependents), current: (e) => num(e.dependents), apply: (c, p) => { p.dependents = c.dependents; } },
+  { label: "Correo", incoming: (c) => c.email ?? "", current: (e) => e.email ?? "", apply: (c, p) => { p.email = c.email; } },
   // phones are compared by digits only, so "+57 300..." and "+57300..." are the same number
-  { label: "Teléfono", incoming: (c) => c.phone ?? "", current: (e) => e.phone ?? "", same: (a, b) => digits(a) === digits(b) },
+  { label: "Teléfono", incoming: (c) => c.phone ?? "", current: (e) => e.phone ?? "", same: (a, b) => digits(a) === digits(b), apply: (c, p) => { p.phone = c.phone; } },
 ];
 
 const SECTIONS = [
@@ -91,6 +109,7 @@ export function compareWithDatabase(clients: ParsedClient[], existing: ExistingC
 
     const fills: FieldChange[] = [];
     const conflicts: FieldChange[] = [];
+    const patch: ClientPatch = {};
     for (const f of FIELDS) {
       const cur = f.current(e);
       const inc = f.incoming(client);
@@ -98,6 +117,7 @@ export function compareWithDatabase(clients: ParsedClient[], existing: ExistingC
       const show = f.show ?? ((v: string) => v);
       if (cur === "") {
         fills.push({ field: f.label, current: "", incoming: show(inc) });
+        f.apply(client, patch);
       } else if (!(f.same ?? ((a, b) => norm(a) === norm(b)))(cur, inc)) {
         conflicts.push({ field: f.label, current: show(cur), incoming: show(inc) });
       }
@@ -109,10 +129,10 @@ export function compareWithDatabase(clients: ParsedClient[], existing: ExistingC
       const n = client[s.key].length;
       if (n === 0) continue;
       const have = e.counts[s.key];
-      if (have === 0) added.push({ section: s.label, rows: n });
-      else skipped.push({ section: s.label, rows: n, existing: have });
+      if (have === 0) added.push({ key: s.key, section: s.label, rows: n });
+      else skipped.push({ key: s.key, section: s.label, rows: n, existing: have });
     }
-    return { kind: "update", client, existingId: e.id, fills, conflicts, added, skipped };
+    return { kind: "update", client, existingId: e.id, fills, patch, conflicts, added, skipped };
   });
 }
 

@@ -59,13 +59,14 @@ enum Role {
 // ---------- Core tables ----------
 
 model Portfolio {
-  id         Int             @id @default(autoincrement())
-  name       String
-  origin     PortfolioOrigin
-  source     String?
-  acquiredAt DateTime?
-  createdAt  DateTime        @default(now())
-  clients    Client[]
+  id           Int             @id @default(autoincrement())
+  name         String
+  origin       PortfolioOrigin
+  source       String?
+  acquiredAt   DateTime?
+  createdAt    DateTime        @default(now())
+  clients      Client[]
+  importBatches ImportBatch[]
 }
 
 model EconomicActivity {
@@ -78,6 +79,7 @@ model EconomicActivity {
   divisionName String   @db.VarChar(400)
   clients      Client[]
 }
+
 model Client {
   id                 String            @id @default(uuid())
   portfolioId        Int
@@ -114,69 +116,81 @@ model Client {
 }
 
 model Income {
-  id            Int        @id @default(autoincrement())
+  id            Int          @id @default(autoincrement())
   clientId      String
-  client        Client     @relation(fields: [clientId], references: [id])
+  client        Client       @relation(fields: [clientId], references: [id])
   type          IncomeType
   description   String?
-  monthlyAmount Decimal    @db.Decimal(18, 2)
-  source        DataSource @default(CLIENT)
+  monthlyAmount Decimal      @db.Decimal(18, 2)
+  source        DataSource   @default(CLIENT)
   verifiedAt    DateTime?
-  createdAt     DateTime   @default(now())
-  updatedAt     DateTime   @updatedAt
+  importBatchId Int?
+  importBatch   ImportBatch? @relation(fields: [importBatchId], references: [id])
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
   deletedAt     DateTime?
 
   @@index([clientId])
+  @@index([importBatchId])
 }
 
 model Asset {
-  id          Int        @id @default(autoincrement())
-  clientId    String
-  client      Client     @relation(fields: [clientId], references: [id])
-  category    String
-  description String?
-  value       Decimal    @db.Decimal(18, 2)
-  asOfDate    DateTime?
-  source      DataSource @default(CLIENT)
-  verifiedAt  DateTime?
-  createdAt   DateTime   @default(now())
-  updatedAt   DateTime   @updatedAt
-  deletedAt   DateTime?
-
-  @@index([clientId])
-}
-
-model Expense {
-  id            Int        @id @default(autoincrement())
+  id            Int          @id @default(autoincrement())
   clientId      String
-  client        Client     @relation(fields: [clientId], references: [id])
+  client        Client       @relation(fields: [clientId], references: [id])
   category      String
-  monthlyAmount Decimal    @db.Decimal(18, 2)
-  source        DataSource @default(CLIENT)
+  description   String?
+  value         Decimal      @db.Decimal(18, 2)
+  asOfDate      DateTime?
+  source        DataSource   @default(CLIENT)
   verifiedAt    DateTime?
-  createdAt     DateTime   @default(now())
-  updatedAt     DateTime   @updatedAt
+  importBatchId Int?
+  importBatch   ImportBatch? @relation(fields: [importBatchId], references: [id])
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
   deletedAt     DateTime?
 
   @@index([clientId])
+  @@index([importBatchId])
+}
+
+model Expense {
+  id            Int          @id @default(autoincrement())
+  clientId      String
+  client        Client       @relation(fields: [clientId], references: [id])
+  category      String
+  monthlyAmount Decimal      @db.Decimal(18, 2)
+  source        DataSource   @default(CLIENT)
+  verifiedAt    DateTime?
+  importBatchId Int?
+  importBatch   ImportBatch? @relation(fields: [importBatchId], references: [id])
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+  deletedAt     DateTime?
+
+  @@index([clientId])
+  @@index([importBatchId])
 }
 
 model CreditAccount {
-  id             Int        @id @default(autoincrement())
+  id             Int          @id @default(autoincrement())
   clientId       String
-  client         Client     @relation(fields: [clientId], references: [id])
+  client         Client       @relation(fields: [clientId], references: [id])
   entity         String
   accountType    String
-  creditLimit    Decimal?   @db.Decimal(18, 2)
-  balance        Decimal    @db.Decimal(18, 2)
-  monthlyPayment Decimal?   @db.Decimal(18, 2)
+  creditLimit    Decimal?     @db.Decimal(18, 2)
+  balance        Decimal      @db.Decimal(18, 2)
+  monthlyPayment Decimal?     @db.Decimal(18, 2)
   status         String?
   reportDate     DateTime?
-  source         DataSource @default(BUREAU)
-  createdAt      DateTime   @default(now())
-  updatedAt      DateTime   @updatedAt
+  source         DataSource   @default(BUREAU)
+  importBatchId  Int?
+  importBatch    ImportBatch? @relation(fields: [importBatchId], references: [id])
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
 
   @@index([clientId])
+  @@index([importBatchId])
 }
 
 model Consent {
@@ -206,14 +220,24 @@ model User {
 }
 
 model ImportBatch {
-  id           Int      @id @default(autoincrement())
+  id           Int        @id @default(autoincrement())
   filename     String
   uploadedById Int
-  uploadedBy   User     @relation(fields: [uploadedById], references: [id])
-  rowCount     Int      @default(0)
-  status       String   @default("PENDING")
-  createdAt    DateTime @default(now())
-  clients      Client[]
+  uploadedBy   User       @relation(fields: [uploadedById], references: [id])
+  portfolioId  Int?
+  portfolio    Portfolio? @relation(fields: [portfolioId], references: [id])
+  rowCount     Int        @default(0)
+  status       String     @default("PENDING")
+  summary      Json?
+  createdAt    DateTime   @default(now())
+
+  clients        Client[]
+  incomes        Income[]
+  assets         Asset[]
+  expenses       Expense[]
+  creditAccounts CreditAccount[]
+
+  @@index([portfolioId])
 }
 
 model AuditLog {

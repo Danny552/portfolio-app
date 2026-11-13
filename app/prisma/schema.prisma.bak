@@ -1,0 +1,232 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "mysql"
+}
+
+// ---------- Enums (fixed lists) ----------
+
+enum PortfolioOrigin {
+  ORIGINAL
+  PURCHASED
+  INHERITED
+}
+
+enum DocumentType {
+  CC
+  CE
+  NIT
+  PASSPORT
+  TI
+  PEP
+  OTHER
+}
+
+enum OccupationType {
+  EMPLOYEE
+  SELF_EMPLOYED
+}
+
+enum MaritalStatus {
+  SINGLE
+  MARRIED
+  COMMON_LAW
+  DIVORCED
+  WIDOWED
+}
+
+enum IncomeType {
+  FIXED
+  ADDITIONAL
+}
+
+enum DataSource {
+  CLIENT
+  ADMIN
+  IMPORT
+  BUREAU
+}
+
+enum Role {
+  ADMIN
+  DATA_MANAGER
+  CLIENT
+}
+
+// ---------- Core tables ----------
+
+model Portfolio {
+  id         Int             @id @default(autoincrement())
+  name       String
+  origin     PortfolioOrigin
+  source     String?
+  acquiredAt DateTime?
+  createdAt  DateTime        @default(now())
+  clients    Client[]
+}
+
+model EconomicActivity {
+  id           Int      @id @default(autoincrement())
+  code         String   @unique
+  description  String   @db.VarChar(400)
+  groupCode    String
+  groupName    String   @db.VarChar(400)
+  divisionCode String
+  divisionName String   @db.VarChar(400)
+  clients      Client[]
+}
+model Client {
+  id                 String            @id @default(uuid())
+  portfolioId        Int
+  portfolio          Portfolio         @relation(fields: [portfolioId], references: [id])
+  fullName           String
+  documentType       DocumentType
+  documentNumber     String
+  birthDate          DateTime?
+  profession         String?
+  occupationType     OccupationType?
+  jobTitle           String?
+  economicActivityId Int?
+  economicActivity   EconomicActivity? @relation(fields: [economicActivityId], references: [id])
+  yearsExperience    Int?
+  maritalStatus      MaritalStatus?
+  dependents         Int?
+  email              String?
+  phone              String?
+  importBatchId      Int?
+  importBatch        ImportBatch?      @relation(fields: [importBatchId], references: [id])
+  createdAt          DateTime          @default(now())
+  updatedAt          DateTime          @updatedAt
+  deletedAt          DateTime?
+
+  incomes        Income[]
+  assets         Asset[]
+  expenses       Expense[]
+  creditAccounts CreditAccount[]
+  consents       Consent[]
+  user           User?
+
+  @@unique([documentType, documentNumber])
+  @@index([portfolioId])
+}
+
+model Income {
+  id            Int        @id @default(autoincrement())
+  clientId      String
+  client        Client     @relation(fields: [clientId], references: [id])
+  type          IncomeType
+  description   String?
+  monthlyAmount Decimal    @db.Decimal(18, 2)
+  source        DataSource @default(CLIENT)
+  verifiedAt    DateTime?
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+  deletedAt     DateTime?
+
+  @@index([clientId])
+}
+
+model Asset {
+  id          Int        @id @default(autoincrement())
+  clientId    String
+  client      Client     @relation(fields: [clientId], references: [id])
+  category    String
+  description String?
+  value       Decimal    @db.Decimal(18, 2)
+  asOfDate    DateTime?
+  source      DataSource @default(CLIENT)
+  verifiedAt  DateTime?
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+  deletedAt   DateTime?
+
+  @@index([clientId])
+}
+
+model Expense {
+  id            Int        @id @default(autoincrement())
+  clientId      String
+  client        Client     @relation(fields: [clientId], references: [id])
+  category      String
+  monthlyAmount Decimal    @db.Decimal(18, 2)
+  source        DataSource @default(CLIENT)
+  verifiedAt    DateTime?
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+  deletedAt     DateTime?
+
+  @@index([clientId])
+}
+
+model CreditAccount {
+  id             Int        @id @default(autoincrement())
+  clientId       String
+  client         Client     @relation(fields: [clientId], references: [id])
+  entity         String
+  accountType    String
+  creditLimit    Decimal?   @db.Decimal(18, 2)
+  balance        Decimal    @db.Decimal(18, 2)
+  monthlyPayment Decimal?   @db.Decimal(18, 2)
+  status         String?
+  reportDate     DateTime?
+  source         DataSource @default(BUREAU)
+  createdAt      DateTime   @default(now())
+  updatedAt      DateTime   @updatedAt
+
+  @@index([clientId])
+}
+
+model Consent {
+  id        Int       @id @default(autoincrement())
+  clientId  String
+  client    Client    @relation(fields: [clientId], references: [id])
+  type      String
+  grantedAt DateTime  @default(now())
+  revokedAt DateTime?
+
+  @@index([clientId])
+}
+
+// ---------- Infrastructure ----------
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  name      String?
+  role      Role
+  clientId  String?  @unique
+  client    Client?  @relation(fields: [clientId], references: [id])
+  createdAt DateTime @default(now())
+
+  auditLogs     AuditLog[]
+  importBatches ImportBatch[]
+}
+
+model ImportBatch {
+  id           Int      @id @default(autoincrement())
+  filename     String
+  uploadedById Int
+  uploadedBy   User     @relation(fields: [uploadedById], references: [id])
+  rowCount     Int      @default(0)
+  status       String   @default("PENDING")
+  createdAt    DateTime @default(now())
+  clients      Client[]
+}
+
+model AuditLog {
+  id        Int      @id @default(autoincrement())
+  userId    Int?
+  user      User?    @relation(fields: [userId], references: [id])
+  action    String
+  entity    String
+  entityId  String?
+  before    Json?
+  after     Json?
+  createdAt DateTime @default(now())
+
+  @@index([entity, entityId])
+  @@index([userId])
+}
