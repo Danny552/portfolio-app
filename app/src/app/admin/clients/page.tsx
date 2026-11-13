@@ -35,7 +35,7 @@ export default async function ClientsPage({
       orderBy: { fullName: "asc" },
     }),
   ]);
-
+<Link href="/admin/import" className="text-sm underline">Importar clientes</Link>
   const tabClass = (active: boolean) =>
     `rounded-full border px-3 py-1 text-sm ${
       active
@@ -47,7 +47,8 @@ export default async function ClientsPage({
     <main className="mx-auto max-w-6xl p-8">
       <h1 className="text-2xl font-semibold">Clientes</h1>
       <p className="mt-1 text-sm opacity-70">
-        {clients.length} clientes · datos de demostración
+        <Link href="/admin/import" className="text-sm underline">Importar clientes</Link>
+        · {clients.length} clientes · datos de demostración
       </p>
 
       <div className="mt-6 flex flex-wrap gap-2">
